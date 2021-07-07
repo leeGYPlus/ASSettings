@@ -1,0 +1,343 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/ExceptionHandler.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashHelper.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yc/ycandroidtool/App.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashHandler.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashFileUtils.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/java/io/PrintWriter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/MemoryUtils.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/tool/ToolLogUtils.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/LifecycleCallback.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/app/Application.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mRecycleView.setA</find>
+      <find>fileList =</find>
+      <find>sExceptionHandler =</find>
+      <find>LEVEL =</find>
+      <find>crashThread</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/LifecycleCallback.java" />
+        <option value="$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="1440" y="-683" width="1080" height="1895" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ycandroidtool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ImageLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ImageLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="NetLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servertransaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="toollib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="toollib" type="462c0819:PsiDirectoryNode" />
+              <item name="crash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YCAndroidTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YCAndroidTool" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="ToolLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="toollib" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-15" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="4" />
+      <window_info anchor="bottom" id="Database Inspector" order="7" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
+      <window_info anchor="right" id="Android Emulator" order="7" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.34200385" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="bottom" id="Layout Inspector" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Project Problems" order="5" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32999444" />
+      <window_info anchor="bottom" id="Logcat" order="7" weight="0.32999444" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/ProcessUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/ToolLib/1.2.3/e54a5efb1204a7288e00aebf7f029e02b13cff35/ToolLib-1.2.3-sources.jar!/com/yc/toollib/crash/CrashListActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/ToolLib/1.2.3/e54a5efb1204a7288e00aebf7f029e02b13cff35/ToolLib-1.2.3-sources.jar!/com/yc/toollib/crash/CrashToolUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yc/ycandroidtool/FirstActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashToolUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/res/layout/activity_crash_list.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashListActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/tool/ToolFileUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yc/ycandroidtool/MainActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yc/ycandroidtool/TestActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashFileProvider.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/ExceptionHandler.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashHelper.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yc/ycandroidtool/App.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/app/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/LifecycleCallback.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/tool/ToolLogUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashHandler.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/MemoryUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/java/io/PrintWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolLib/src/main/java/com/yc/toollib/crash/CrashFileUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,369 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-night/themes.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/drawable/btn_cancel_bg.xml">
+          <provider selected="true" editor-type-id="android-preview-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="529" column="17" selection-start-line="529" selection-start-column="17" selection-end-line="529" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values/themes.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-night/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-zh-rCN/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="812" column="28" selection-start-line="812" selection-start-column="18" selection-end-line="812" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/xml/preferences.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/preference/CheckBoxPreference.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daily/auto_daily_build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Theme</find>
+      <find>Theme.Light.NoTitle</find>
+      <find>Negative</find>
+      <find>Theme.Dialog</find>
+      <find>R.style.Theme_Dialog</find>
+      <find>preference_authorization_title</find>
+      <find>深色</find>
+      <find>KEY_USER_AUTHORIZATION</find>
+      <find>模式</find>
+      <find>广告服务</find>
+      <find>ad_service</find>
+      <find>授权</find>
+      <find>core-com</find>
+      <find>core</find>
+      <find>发送中</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resmodule/src/main/res/values-night/themes.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="1451" y="-152" width="1911" height="1052" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="app" type="409dc1c3:GradleTreeStructureProvider$GradleProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="app" type="409dc1c3:GradleTreeStructureProvider$GradleProjectViewModuleNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baselib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="baselib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemeManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="daily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.miui:core:dev-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.miui:core:dev-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="core-dev-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.miui:core:dev-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="core-dev-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThemeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.miui:core:dev-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="core-dev-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-35" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" order="5" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.44206008" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Inspector" order="6" />
+      <window_info id="Build Variants" order="1" side_tool="true" />
+      <window_info anchor="right" id="Android Emulator" order="2" side_tool="true" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32896176" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Project Problems" order="5" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="Layout Inspector" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="12" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/thememanager/v9/WallpaperSubjectActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../decouple_res/packages/apps/ThemeManager_Global/resmodule/src/main/res/values-zh-rHK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="623" column="18" selection-start-line="623" selection-start-column="18" selection-end-line="623" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/thememanager/util/AuthorizationHelper.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/thememanager/activity/ThemePreferenceActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="641" column="40" selection-start-line="641" selection-start-column="40" selection-end-line="641" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-night/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="529" column="17" selection-start-line="529" selection-start-column="17" selection-end-line="529" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-night/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/drawable/btn_cancel_bg.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="812" column="28" selection-start-line="812" selection-start-column="18" selection-end-line="812" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resmodule/src/main/res/xml/preferences.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/preference/CheckBoxPreference.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/auto_daily_build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

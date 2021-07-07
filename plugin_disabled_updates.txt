@@ -1,0 +1,4 @@
+cn.yiiguxing.plugin.translate+3.1-201
+izhangzhihao.rainbow.brackets+6.18
+jclasslib+5.7
+cn.yiiguxing.plugin.translate+3.0.3

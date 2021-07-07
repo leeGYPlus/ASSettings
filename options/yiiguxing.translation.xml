@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Panel" />
+      <item value="persistent" />
+      <item value="Sensor" />
+      <item value="Prior to API 29 and to maintain compatibility with older versions of ProcessLifecycleOwner (which may not be updated when lifecycle-runtime is updated and need to support activities that don't extend from FragmentActivity from support lib), use a framework fragment to get the correct timing of Lifecycle events roid.app.FragmentManager manager = activity.getFragmentManager();" />
+      <item value="Reentrance" />
+      <item value="Invariant: at any moment of time for observer1 &amp; observer2: if addition_order(observer1) &lt; addition_order(observer2), then state(observer1) &gt;= state(observer2)," />
+      <item value="Invariant" />
+      <item value="Add the icons for the supplied apk called packageName." />
+      <item value="transition" />
+      <item value="seat" />
+      <item value="Container to ease passing around a tuple of two objects. This object provides a sensible implementation of equals(), returning true if equals() is true on each of the contained objects." />
+      <item value="The given closure is executed against this project's {@link ScriptHandler}" />
+      <item value="populate" />
+      <item value="populated" />
+      <item value="&lt;p&gt;A {@code Rule} represents some action to perform when an unknown domain object is referenced. The rule can use the domain object name to add an implicit domain object.&lt;p&gt;" />
+      <item value="&lt;p&gt;This annotation should be attached to the getter method in Java or the property in Groovy. Annotations on setters or just the field in Java are ignored.&lt;p&gt;" />
+      <item value="Marks a property as specifying an output file for a task." />
+      <item value="&lt;p&gt;This will cause the task to be considered out-of-date when the file path or contents are different to when the task was last run.&lt;p&gt;" />
+      <item value="Visits a LDC instruction" />
+      <item value="Visits a method instruction. A method instruction is an instruction that invokes a method." />
+      <item value="Visits the nest host class of the class" />
+      <item value="Visit the module corresponding to the class" />
+      <item value="An entry of the constant pool" />
+      <item value="Visits an instruction with a single int operand." />
+      <item value="Possible values for the reference_kind field of CONSTANT_MethodHandle_info structures." />
+      <item value="Possible values for the type operand of the NEWARRAY instruction." />
+      <item value="ASM specific access flags." />
+      <item value="Access flags values" />
+      <item value="Version flag indicating that the class is using 'preview' features." />
+      <item value="The JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
+      <item value="opcodes" />
+      <item value="A {@link ClassVisitor} that generates a corresponding ClassFile structure, as defined in the Java Virtual Machine Specification (JVMS). It can be used alone, to generate a Java class &quot;from scratch&quot;, or with one or more {@link ClassReader} and adapter {@link ClassVisitor} to generate a modified class from one or more existing Java classes." />
+      <item value="A flag to automatically compute the maximum stack size and the maximum number of local variables of methods. If this flag is set, then the arguments of the {@link MethodVisitorvisitMaxs} method of the {@link MethodVisitor} returned by the {@link visitMethod} method will be ignored, and computed automatically from the signature and the bytecode of each method." />
+      <item value="dontwarn" />
+      <item value="Wire" />
+      <item value="layout" />
+      <item value="This has the same meaning as the above but also encodes the line number range of the member. This may be followed by multiple inline mappings of the form" />
+      <item value="Due to inlining, we might have the above prefixed with a range" />
+      <item value="which maps the member with the given signature to the new name. This mapping is not bidirectional as member names are overloaded by signature. To make it bidirectional, we extend the name with the signature of the original member." />
+      <item value="bidirectional" />
+      <item value="COLON" />
+      <item value="Parses a Proguard mapping file and produces mappings from obfuscated class names to the original name and from obfuscated member signatures to the original members the obfuscated member was formed of." />
+      <item value="The setup of a retracer should likely also follow a builder pattern instead of having static create methods. That would avoid the need to method overload the construction here and the default create would become the default build of a retracer." />
+      <item value="refined" />
+      <item value="Specialized Retrace class for retracing string retraces, with special handling for appending additional information into the strings, such as OR's for ambiguous lines." />
+      <item value="retrace" />
+      <item value="retraced" />
+      <item value="A DiagnosticsHandler can be provided to customize handling of diagnostics information." />
+      <item value="Diagnostics" />
+      <item value="wildcards" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625105009218" />
+  </component>
+</application>

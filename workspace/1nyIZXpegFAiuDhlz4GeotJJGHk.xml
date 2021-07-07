@@ -1,0 +1,191 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/cp/CrashContentProvider.kt">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>infos</find>
+    </findStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="1440" y="-683" width="1080" height="1895" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crashcanary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrashCanary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrashCanary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="4" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.3291506" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Inspector" order="10" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Android Emulator" order="3" side_tool="true" />
+      <window_info anchor="right" id="Assistant" order="4" visible="true" weight="0.3291506" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Project Problems" order="5" />
+      <window_info anchor="bottom" id="Layout Inspector" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="11" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/ui/CrashInfoActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/util/NotificationUtil.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/util/CrashHandler.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Service.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/service/MyService.kt">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/wsj/crash/lib/cp/CrashContentProvider.kt">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/per/wsj/crashcanary/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

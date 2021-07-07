@@ -1,0 +1,364 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FrameRemapper.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/src/proguard/obfuscate/MappingReader.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/ReTrace.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FramePattern.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FrameInfo.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/util/ClassUtil.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/ClassConstants.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/JavaConstants.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/intellij-core/26.0.0/47396aa1fead8512c246fdf4698552c1f33b1710/intellij-core-26.0.0.jar!/com/intellij/codeInsight/ClassUtil.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/src/proguard/obfuscate/MappingProcessor.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>expressionTypes</find>
+      <find>regularExpression</find>
+      <find>matcher</find>
+      <find>(.*?(?::%l)?\\)\\s*)</find>
+      <find>lineNumber</find>
+      <find>mappingFile</find>
+      <find>pattern</find>
+      <find>proguard-android-common</find>
+      <find>classMethodMap</find>
+      <find>verbose</find>
+      <find>externalClassName</find>
+      <find>ClassUtil</find>
+      <find>externalClassName(</find>
+      <find>regularExpression</find>
+      <find>classMap</find>
+      <find>expressionTypeCount</find>
+      <find>__:</find>
+      <find>allClassNames</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/base/src/proguard/obfuscate/MappingProcessor.java" />
+        <option value="$PROJECT_DIR$/base/src/proguard/obfuscate/MappingReader.java" />
+        <option value="$PROJECT_DIR$/retrace/src/proguard/retrace/FrameRemapper.java" />
+        <option value="$PROJECT_DIR$/retrace/src/proguard/retrace/FramePattern.java" />
+        <option value="$PROJECT_DIR$/retrace/src/proguard/retrace/FrameInfo.java" />
+        <option value="$PROJECT_DIR$/retrace/src/proguard/retrace/ReTrace.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="0" width="1440" height="900" fullScreen="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="base" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="base" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="base" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="base" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+              <item name="obfuscate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="retrace" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="retrace" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="retrace" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proguard-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="retrace" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+              <item name="retrace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.android.tools.external.com-intellij:intellij-core:26.0.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.android.tools.external.com-intellij:intellij-core:26.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="intellij-core-26.0.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.android.tools.external.com-intellij:intellij-core:26.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="intellij-core-26.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.android.tools.external.com-intellij:intellij-core:26.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="intellij-core-26.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.android.tools.external.com-intellij:intellij-core:26.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="intellij-core-26.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="codeInsight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: net.sf.proguard:proguard-base:5.3.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: net.sf.proguard:proguard-base:5.3.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="proguard-base-5.3.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: net.sf.proguard:proguard-base:5.3.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="proguard-base-5.3.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: net.sf.proguard:proguard-base:5.3.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="proguard-base-5.3.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+              <item name="classfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proguard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: net.sf.proguard:proguard-base:5.3.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="proguard-base-5.3.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="proguard" type="462c0819:PsiDirectoryNode" />
+              <item name="classfile" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-211" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.39842632" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.30511183" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32954547" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.19008264" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32954547" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="clangd" order="9" />
+      <window_info anchor="right" id="Gradle" order="0" weight="0.3297568" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/retrace/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/src.zip!/java/io/LineNumberReader.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/ProGuardConvention.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/proguard-android-common.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/proguard-android-release.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/ProGuardTask.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/ProGuardExtension.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/ProGuardPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle-plugin/src/proguard/gradle/ProGuardTransform.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/proguard/obfuscate/MultiMappingProcessor.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/src/proguard/gui/ReTraceRunnable.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FrameInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/util/ClassUtil.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/ClassConstants.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar!/proguard/classfile/JavaConstants.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/intellij-core/26.0.0/47396aa1fead8512c246fdf4698552c1f33b1710/intellij-core-26.0.0.jar!/com/intellij/codeInsight/ClassUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/proguard/obfuscate/MappingProcessor.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/proguard/obfuscate/MappingReader.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FramePattern.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/ReTrace.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrace/src/proguard/retrace/FrameRemapper.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+  </component>
+</project>

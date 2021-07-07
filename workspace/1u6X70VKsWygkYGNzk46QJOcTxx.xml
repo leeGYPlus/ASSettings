@@ -1,0 +1,451 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/base.apk">
+          <provider selected="true" editor-type-id="apk-viewer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PackageInstallerCompat.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ItemInfo.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/ProgressShortcutInfo.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherSettings.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/FolderInfo.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reportFirebaseId</find>
+      <find>git</find>
+      <find>BranchSearchGuideDialogUtil</find>
+      <find>mBranchSearchGuideView</find>
+      <find>mContext</find>
+      <find>Log.e</find>
+      <find>key_auto_add_new_app_shortc</find>
+      <find>自动添加</find>
+      <find>add_new_app_to_workspace</find>
+      <find>add_new_app_to_workspace_pref</find>
+      <find>PREF_ADD_NEW_APP_TO_WORKSPACE_KEY</find>
+      <find>mAddNewAppsToWorkSpace</find>
+      <find>key_auto_add_new_app_shortcut</find>
+      <find>onSearchResult</find>
+      <find>CommercialInit.in</find>
+      <find>color_open</find>
+      <find>local apps</find>
+      <find>local_apps</find>
+      <find>mNewSearchResults =</find>
+      <find>addPackage</find>
+      <find>bindAddedShortcuts</find>
+      <find>5_2</find>
+      <find>6_0</find>
+      <find>russia_preinstall_folder_name</find>
+      <find>getFolderInfoByLabel</find>
+      <find>Google</find>
+      <find>blue</find>
+      <find>ms_color_deep_blue</find>
+      <find>addOrRemovePAIPackage</find>
+      <find>itemFlags</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherProvider.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/AdvertisingIdClient.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppID.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseIdGetter.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseInstallationsID.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/AsyncID.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SwitchAssistantSettings.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Workspace.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppInstanceId.java" />
+        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/FirebaseInstallationsID.java" />
+        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/AsyncID.java" />
+        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/FirebaseAppInstanceId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseInstallationsID.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/AsyncID.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/AsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/AsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseAppInstanceId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaeInstallationId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseInstallationId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseInstallationId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/AsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/IAsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseIdFetcherFactory.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseIdFetcher.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/IAsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseAppId.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/Hello.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/Hello.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/KKKe.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/Helo.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/He.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseAppInstanceId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncID.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetcheFirebaseId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsID.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsId.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AnalyticsUtil.java" />
+        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetchFirebaseId.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetApi.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherApplication.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacySettingsFragment.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/build.gradle" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SettingsFragment.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/guide/WallpaperChoiceView.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java" />
+        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-487" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.22736955" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Build Variants" order="6" side_tool="true" weight="0.3365282" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.49586776" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3181818" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.30785123" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3109504" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3409091" />
+      <window_info anchor="bottom" id="clangd" order="10" />
+      <window_info anchor="bottom" id="Database Inspector" order="11" weight="0.32954547" />
+      <window_info anchor="bottom" id="Android Profiler" order="12" weight="0.32954547" />
+      <window_info anchor="bottom" id="Layout Inspector" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="14" weight="0.40289256" />
+      <window_info anchor="right" id="Gradle" order="0" sideWeight="0.49927008" weight="0.3365282" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="2" sideWeight="0.55061984" side_tool="true" weight="0.6235357" />
+      <window_info anchor="right" id="Android Emulator" order="3" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="SQLite Explorer" order="5" sideWeight="0.44938016" weight="0.6235357" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>mStartUpGuide.isFirstLaunch() = true</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>initializeMaxItemId(db)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getCause()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!parser.getName().equals(firstElementName)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getEventType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getAttributeName(0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getAttributeName(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getAttributeCount()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parser.getDepth()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ee5122effa9c705a097df841ba83b22/jars/classes.jar!/com/google/firebase/analytics/FirebaseAnalytics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AnalyticsUtil.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsId.java" />
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/layout/home_settings_activity.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/CommonLib/framework.jar!/com/miui/whetstone/cert/LogUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetchFirebaseId.java" />
+    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseAppInstanceId.java" />
+    <entry file="file://$PROJECT_DIR$/Analytics/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/AboutSettingsAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf7575bf607d56bb901179509de2a47c/jars/classes.jar!/com/google/firebase/iid/FirebaseInstanceId.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/config/UUIDConfig.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/AdvertisingIdClient.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetClient.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetApi.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuideDialogUtil.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/preinstall/AutoInstallsLayout.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5640">
+          <caret line="235" column="42" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/xml/home_screen_settings.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/HomeScreenSettings.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/data/pref/DefaultPrefManager.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SettingsFragment.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="206" column="49" selection-start-line="206" selection-start-column="49" selection-end-line="206" selection-end-column="49" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12360">
+          <caret line="515" column="28" selection-start-line="515" selection-start-column="18" selection-end-line="515" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/config/RemoteConfigConstant.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/res/xml/remote_config_defaults.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/config/RemoteConfig.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/util/DataTrackingConstants.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/database/ContentObserver.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/Utilities.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/MainApplication.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/recents/src/com/miui/home/recents/util/ZclUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/allapps/AlphabeticalAppsList.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AppInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ShortcutInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacySettingsFragment.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherApplication.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/guide/WallpaperChoiceView.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/russia/RussiaPreInstallAppsRepository.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/FolderInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PackageInstallerCompat.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherSettings.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/ProgressShortcutInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ItemInfo.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/base.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+  </component>
+</project>
