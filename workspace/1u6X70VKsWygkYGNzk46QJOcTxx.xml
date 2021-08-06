@@ -1,151 +1,212 @@
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchManager.java" description="public void setPhoneNotAllowBranchList() {" line="192" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java">
-          <provider selected="true" editor-type-id="android-source-code" />
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialInit.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="-39">
+                <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AnalyticalDataJobService.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="238">
+                <caret line="146" column="32" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ZclUtils.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="240">
+                <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/BackgroundThread.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="408">
+                <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuideDialogUtil.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="408">
+                <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="2280">
+                <caret line="125" column="65" selection-start-line="125" selection-start-column="65" selection-end-line="125" selection-end-column="65" />
+              </editor-state>
+              <multi-preview-state selected="Custom views">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskAdapter.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="429">
+                <caret line="501" column="54" selection-start-line="501" selection-start-column="54" selection-end-line="501" selection-end-column="54" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Downloads/base.apk">
-          <provider selected="true" editor-type-id="apk-viewer" />
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dc598f445428069d469f34eafad2cd3/jars/classes.jar!/io/branch/search/ui/BranchEntity.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PackageInstallerCompat.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ItemInfo.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/ProgressShortcutInfo.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherSettings.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java">
-          <provider selected="true" editor-type-id="android-source-code" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/FolderInfo.java">
-          <provider selected="true" editor-type-id="android-source-code" />
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialRemoteConfig.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="1416">
+                <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reportFirebaseId</find>
-      <find>git</find>
-      <find>BranchSearchGuideDialogUtil</find>
-      <find>mBranchSearchGuideView</find>
+      <find>getSearchHintFromServer</find>
+      <find>getAutoSuggest</find>
+      <find>io.branch.</find>
+      <find>getAuto</find>
+      <find>VIEW_TYPE_UNI_SEARCH_ITEM</find>
+      <find>new CustomEvent().set(&quot;O</find>
+      <find>new CustomEvent().set(&quot;OPT-IN&quot;</find>
+      <find>initRemoteConfig</find>
+      <find>lacet</find>
+      <find>new CustomEvent().set(&quot;OPT-IN</find>
+      <find>getZeroStateFromServer</find>
+      <find>SEARCH_MASK_TYPE_SHORTCUT</find>
+      <find>open_search_on_enter_drawer</find>
+      <find>OPEN_SEARCH_ON_ENTER_DRAWER</find>
+      <find>BRANCH_OPEN</find>
+      <find>needToShowSearchHintView</find>
+      <find>isBranchOpen</find>
+      <find>optOutOfTracking</find>
+      <find>CommercialInit.enable(RegionUtils.isInIndiaRegion(this));</find>
+      <find>hideBranchSearchGuideView</find>
+      <find>BranchGuildController</find>
+      <find>trytorepo</find>
+      <find>branch_open</find>
+      <find>new CustomEvent()</find>
+      <find>io.branch</find>
       <find>mContext</find>
-      <find>Log.e</find>
-      <find>key_auto_add_new_app_shortc</find>
-      <find>自动添加</find>
-      <find>add_new_app_to_workspace</find>
-      <find>add_new_app_to_workspace_pref</find>
-      <find>PREF_ADD_NEW_APP_TO_WORKSPACE_KEY</find>
-      <find>mAddNewAppsToWorkSpace</find>
-      <find>key_auto_add_new_app_shortcut</find>
-      <find>onSearchResult</find>
-      <find>CommercialInit.in</find>
-      <find>color_open</find>
-      <find>local apps</find>
-      <find>local_apps</find>
-      <find>mNewSearchResults =</find>
-      <find>addPackage</find>
-      <find>bindAddedShortcuts</find>
-      <find>5_2</find>
-      <find>6_0</find>
-      <find>russia_preinstall_folder_name</find>
-      <find>getFolderInfoByLabel</find>
-      <find>Google</find>
-      <find>blue</find>
-      <find>ms_color_deep_blue</find>
-      <find>addOrRemovePAIPackage</find>
-      <find>itemFlags</find>
+      <find>BackgroundThread</find>
+      <find>disabled</find>
+      <find>BranchSearch.init</find>
+      <find>setupBranchItemView</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/allapps</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch</dir>
+      <dir>$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherProvider.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/AdvertisingIdClient.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppID.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseIdGetter.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseInstallationsID.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/AsyncID.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SwitchAssistantSettings.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Workspace.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppInstanceId.java" />
-        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/FirebaseInstallationsID.java" />
-        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/AsyncID.java" />
-        <option value="$PROJECT_DIR$/CommonLib/src/main/java/com/privacy/FirebaseAppInstanceId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseInstallationsID.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/AsyncID.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/AsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/AsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseAppInstanceId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaeInstallationId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privacy/FirebaseInstallationId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseInstallationId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/AsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/IAsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseIdFetcherFactory.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseIdFetcher.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/IAsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/FirebaseAppId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/FirebaseAppId.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/Hello.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/Hello.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/privace/KKKe.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/Helo.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/He.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseAppInstanceId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncID.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetcheFirebaseId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsID.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsId.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AnalyticsUtil.java" />
-        <option value="$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetchFirebaseId.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetApi.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherApplication.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacySettingsFragment.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/build.gradle" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SettingsFragment.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/guide/WallpaperChoiceView.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java" />
-        <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Commercial/src/main/res/values/strings.xml" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/res/values-zh-rCN/strings.xml" />
+      <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/allapps/AllAppsContainerView.java" />
+      <option value="$PROJECT_DIR$/Commercial/build.gradle" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/BackgroundThreadBranch.java" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialInit.java" />
+      <option value="$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AnalyticalDataJobService.java" />
+    </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -154,21 +215,562 @@
       </set>
     </option>
   </component>
-  <component name="ProjectFrameBounds" x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
+  <component name="ProjectFrameBounds" x="0" y="0" width="1440" height="900" fullScreen="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1" />
-    <panes />
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="BranchSearchManager" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="CommercialInit" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="commonlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CommonLib" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="commonlib" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="PocoLauncher" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="LauncherApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="BranchSearchAlgorithm" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="BranchSearchManager" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="CommercialInit" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-zh-rCN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="commonlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="commonlib" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CommonLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="commonlib" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoteConfig" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="pai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHomeGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PocoLauncher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="LauncherApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="MiuiHomeGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
       <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-487" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/PocoLauncher/build/outputs/apk/debug" commandHistoryFileName="history-573" />
     </option>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.22736955" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.30472103" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Commit" order="4" />
@@ -176,26 +778,223 @@
       <window_info id="Build Variants" order="6" side_tool="true" weight="0.3365282" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.49586776" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994923" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3181818" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.30785123" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3292517" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.51836735" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.44289342" />
       <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.32954547" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.3109504" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.3409091" />
-      <window_info anchor="bottom" id="clangd" order="10" />
-      <window_info anchor="bottom" id="Database Inspector" order="11" weight="0.32954547" />
-      <window_info anchor="bottom" id="Android Profiler" order="12" weight="0.32954547" />
-      <window_info anchor="bottom" id="Layout Inspector" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="14" weight="0.40289256" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.58231294" />
+      <window_info anchor="bottom" id="Gradle View" order="7" />
+      <window_info anchor="bottom" id="App Inspection" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3102041" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.34013605" />
+      <window_info anchor="bottom" id="clangd" order="12" />
+      <window_info anchor="bottom" id="Database Inspector" order="13" weight="0.32954547" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" weight="0.32954547" />
+      <window_info anchor="bottom" id="Layout Inspector" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="16" weight="0.40272108" />
       <window_info anchor="right" id="Gradle" order="0" sideWeight="0.49927008" weight="0.3365282" />
       <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
       <window_info anchor="right" id="Device File Explorer" order="2" sideWeight="0.55061984" side_tool="true" weight="0.6235357" />
       <window_info anchor="right" id="Android Emulator" order="3" side_tool="true" />
       <window_info anchor="right" id="Layout Validation" order="4" />
       <window_info anchor="right" id="SQLite Explorer" order="5" sideWeight="0.44938016" weight="0.6235357" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="6" side_tool="true" weight="0.3297568" />
     </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="-1435" y="151" key="#PSD" timestamp="1624884384616">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1435" y="151" key="#PSD/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624884384616" />
+    <state x="-1261" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624266820489">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1261" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624266820489" />
+    <state x="-1147" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1624946420804">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1147" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624946420804" />
+    <state x="-1366" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1624931284837">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1366" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624931284837" />
+    <state x="-1676" y="-125" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1624946760835">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1676" y="-125" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624946760835" />
+    <state x="-604" y="198" key="#xdebugger.evaluate" timestamp="1624354519333">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-604" y="198" key="#xdebugger.evaluate/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624354519333" />
+    <state x="510" y="203" width="420" height="518" key="AndroidProcessChooserDialog" timestamp="1628167167201">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="510" y="203" width="420" height="518" key="AndroidProcessChooserDialog/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167167201" />
+    <state x="393" y="25" width="817" height="875" key="CommitChangelistDialog2" timestamp="1627973906306">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1396" y="-100" key="CommitChangelistDialog2/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624609543354" />
+    <state x="393" y="25" width="817" height="875" key="CommitChangelistDialog2/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627973906306" />
+    <state width="432" height="646" key="DebuggerActiveHint" timestamp="1624262168138">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state width="432" height="646" key="DebuggerActiveHint/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624262168138" />
+    <state x="75" y="40" width="1290" height="773" key="DiffContextDialog" timestamp="1628146269382">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="75" y="40" width="1290" height="773" key="DiffContextDialog/0.0.1440.900/-1920.-100.1920.1055@0.0.1440.900" timestamp="1627562242642" />
+    <state x="-1820" y="-48" width="1720" height="901" key="DiffContextDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1627873110583" />
+    <state x="75" y="64" width="1290" height="751" key="DiffContextDialog/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1628046223014" />
+    <state x="75" y="64" width="1290" height="751" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1628044896970" />
+    <state x="-1820" y="-48" width="1720" height="901" key="DiffContextDialog/0.25.1440.875/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1627875187243" />
+    <state x="75" y="40" width="1290" height="773" key="DiffContextDialog/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628146269382" />
+    <state x="-1820" y="-48" width="1720" height="901" key="DiffContextDialog/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1627873397454" />
+    <state x="75" y="40" width="1290" height="773" key="DiffContextDialog/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627974740163" />
+    <state x="75" y="64" width="1290" height="751" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1626158052831" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom" timestamp="1628167113039">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626082893701" />
+    <state width="1398" height="301" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1624849986239" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624969016334" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113039" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1625624531653" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center" timestamp="1628167113038">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626082893700" />
+    <state width="1398" height="301" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1624849986235" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624969016333" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113038" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1625624531650" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left" timestamp="1628167113037">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626082893700" />
+    <state width="1398" height="301" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1624849986233" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624969016332" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113037" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1625624531647" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right" timestamp="1628167113039">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626082893701" />
+    <state width="1398" height="301" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1624849986237" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624969016333" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113039" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1625624531651" />
+    <state width="1398" height="222" key="GridCell.Tab.1.bottom" timestamp="1628167113042">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624354738424" />
+    <state width="1398" height="222" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113042" />
+    <state width="1878" height="302" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624343403187" />
+    <state width="1398" height="222" key="GridCell.Tab.1.center" timestamp="1628167113041">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624354738422" />
+    <state width="1398" height="222" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113041" />
+    <state width="1878" height="302" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624343403182" />
+    <state width="1398" height="222" key="GridCell.Tab.1.left" timestamp="1628167113040">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624354738421" />
+    <state width="1398" height="222" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113040" />
+    <state width="1878" height="302" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624343403179" />
+    <state width="1398" height="222" key="GridCell.Tab.1.right" timestamp="1628167113041">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1878" height="302" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624354738423" />
+    <state width="1398" height="222" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167113041" />
+    <state width="1878" height="302" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624343403183" />
+    <state x="144" y="76" width="1152" height="748" key="MergeDialog" timestamp="1627563098688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="76" width="1152" height="748" key="MergeDialog/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1627563098688" />
+    <state x="342" y="208" width="756" height="484" key="MultipleFileMergeDialog" timestamp="1627563100972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="342" y="208" width="756" height="484" key="MultipleFileMergeDialog/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1627563100972" />
+    <state x="485" y="136" key="RollbackChangesDialog" timestamp="1626165427407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1273" y="38" key="RollbackChangesDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624946603914" />
+    <state x="485" y="136" key="RollbackChangesDialog/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1626165427407" />
+    <state x="352" y="168" width="982" height="728" key="SettingsEditor" timestamp="1628214772461">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1451" y="51" key="SettingsEditor/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624516980356" />
+    <state x="352" y="147" key="SettingsEditor/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1624849714263" />
+    <state x="352" y="168" width="982" height="728" key="SettingsEditor/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628214772461" />
+    <state width="500" height="416" key="SwitcherDM" timestamp="1626226977125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="528" height="465" key="SwitcherDM/0.0.1440.900/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1625817633810" />
+    <state width="528" height="476" key="SwitcherDM/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624866270464" />
+    <state width="500" height="416" key="SwitcherDM/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1626226977125" />
+    <state width="528" height="476" key="SwitcherDM/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624607884609" />
+    <state x="470" y="59" width="564" height="841" key="VCS.ChangeListViewerDialog" timestamp="1627894028175">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1293" y="-7" key="VCS.ChangeListViewerDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626259002711" />
+    <state x="470" y="59" key="VCS.ChangeListViewerDialog/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1626686850435" />
+    <state x="470" y="59" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1626158033380" />
+    <state x="-1293" y="-30" key="VCS.ChangeListViewerDialog/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624366427961" />
+    <state x="470" y="59" width="564" height="841" key="VCS.ChangeListViewerDialog/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627894028175" />
+    <state x="520" y="373" width="400" height="179" key="VCS.ChangelistChooser" timestamp="1627973511346">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="520" y="373" width="400" height="179" key="VCS.ChangelistChooser/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627973511346" />
+    <state x="-1820" y="-48" width="1720" height="901" key="VCS.FileHistoryDialog" timestamp="1624348853100">
+      <screen x="-1920" y="-100" width="1920" height="1055" />
+    </state>
+    <state x="-1820" y="-48" width="1720" height="901" key="VCS.FileHistoryDialog/0.25.1440.875/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1624348853100" />
+    <state x="-1205" y="17" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625484710513">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1205" y="17" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1625484710513" />
+    <state x="536" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1625131309863" />
+    <state x="-1278" y="71" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1624866430931">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1278" y="71" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624866430931" />
+    <state x="385" y="180" width="928" height="698" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1628166872810">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1407" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624259766065" />
+    <state x="385" y="180" width="928" height="698" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628166872810" />
+    <state x="300" y="261" width="696" height="550" key="find.popup" timestamp="1628167179052">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1260" y="166" width="654" height="522" key="find.popup/0.0.1440.900/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1625818920606" />
+    <state x="-1520" y="166" width="927" height="614" key="find.popup/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1627873126139" />
+    <state x="495" y="227" width="809" height="550" key="find.popup/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1627878337665" />
+    <state x="495" y="227" width="638" height="522" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1627463374883" />
+    <state x="-1260" y="166" width="654" height="582" key="find.popup/0.25.1440.875/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1625818973440" />
+    <state x="300" y="261" width="696" height="550" key="find.popup/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628167179052" />
+    <state x="-1520" y="166" width="927" height="554" key="find.popup/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626059030272" />
+    <state x="300" y="261" width="696" height="550" key="find.popup/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627957413580" />
+    <state x="495" y="227" width="638" height="522" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1626924565553" />
+    <state x="469" y="265" width="670" height="563" key="run.anything.popup" timestamp="1625130473478">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1295" y="193" width="670" height="675" key="run.anything.popup/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1624952620273" />
+    <state x="469" y="265" width="670" height="563" key="run.anything.popup/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1625130473478" />
+    <state x="-1295" y="193" width="670" height="675" key="run.anything.popup/0.25.1440.875/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1624869222006" />
+    <state x="469" y="265" width="670" height="563" key="run.anything.popup/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1625130453675" />
+    <state x="469" y="220" width="670" height="549" key="search.everywhere.popup" timestamp="1628160740453">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1295" y="135" width="670" height="661" key="search.everywhere.popup/0.0.1440.900/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1625817628953" />
+    <state x="-1295" y="116" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626258638725" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900/-1920.-125.1920.1080@0.0.1440.900" timestamp="1627878357969" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1627463021415" />
+    <state x="469" y="220" width="670" height="549" key="search.everywhere.popup/0.25.1440.875/-1920.-100.1920.1055@0.25.1440.875" timestamp="1628160740453" />
+    <state x="-1295" y="116" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1626058183029" />
+    <state x="469" y="220" width="670" height="548" key="search.everywhere.popup/0.25.1440.875/-1920.-125.1920.1080@0.25.1440.875" timestamp="1627973760291" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1624415953796" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -259,193 +1058,529 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ee5122effa9c705a097df841ba83b22/jars/classes.jar!/com/google/firebase/analytics/FirebaseAnalytics.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AnalyticsUtil.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseInstallationsId.java" />
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/layout/home_settings_activity.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16890705a2059c7704ad4fac9d96bd36/jars/classes.jar!/io/branch/search/ui/BranchEntity.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16890705a2059c7704ad4fac9d96bd36/jars/classes.jar!/io/branch/search/ui/Image.class" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/layout/all_apps_uni_search_item.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="jar://$PROJECT_DIR$/CommonLib/framework.jar!/com/miui/whetstone/cert/LogUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AsyncFetchFirebaseId.java" />
-    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/FirebaseAppInstanceId.java" />
-    <entry file="file://$PROJECT_DIR$/Analytics/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/AboutSettingsAdapter.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2760">
-          <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf7575bf607d56bb901179509de2a47c/jars/classes.jar!/com/google/firebase/iid/FirebaseInstanceId.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1992">
-          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/config/UUIDConfig.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/AdvertisingIdClient.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetClient.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacyResetApi.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuideDialogUtil.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/preinstall/AutoInstallsLayout.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/values-zh-rCN/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5640">
-          <caret line="235" column="42" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/xml/home_screen_settings.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/HomeScreenSettings.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/data/pref/DefaultPrefManager.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SettingsFragment.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="206" column="49" selection-start-line="206" selection-start-column="49" selection-end-line="206" selection-end-column="49" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12360">
-          <caret line="515" column="28" selection-start-line="515" selection-start-column="18" selection-end-line="515" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="10" column="105" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/config/RemoteConfigConstant.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/res/xml/remote_config_defaults.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/config/RemoteConfig.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/util/DataTrackingConstants.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/database/ContentObserver.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/Utilities.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/MainApplication.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/recents/src/com/miui/home/recents/util/ZclUtils.java">
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchCallback.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/allapps/AlphabeticalAppsList.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AppInfo.java">
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/search/SearchResultGridAdapter.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ShortcutInfo.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/SettingsFragment.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/settings/privacy/PrivacySettingsFragment.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/drawable/branch_item_card_bg.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherApplication.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state />
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/guide/WallpaperChoiceView.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialCloudConfigApi.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/russia/RussiaPreInstallAppsRepository.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialParamUtil.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/FolderInfo.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialClient.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PackageInstallerCompat.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AllAppsList.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values-bo-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherSettings.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/Launcher.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/util/RegionUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="816">
+            <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/ProgressShortcutInfo.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/util/RuntimePermissionsUtil.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="144">
+            <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/SystemPropertiesCompat.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1512">
+            <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchAlgorithm.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="96">
+            <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/util/ReflectUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="192">
+            <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialCloudConfigJobService.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="192">
+            <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialRemoteConfigConstant.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialPreference.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/allapps/AllAppsContainerView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="198">
+            <caret line="754" selection-start-line="754" selection-end-line="754" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/util/Utilities.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="231">
+            <caret line="1747" column="26" selection-start-line="1747" selection-start-column="26" selection-end-line="1747" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analytics/src/main/java/com/mi/launcher/analytics/AnalyticsUtil.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="4440">
+            <caret line="207" column="23" selection-start-line="207" selection-start-column="23" selection-end-line="207" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/BackgroundThreadBranch.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff9a5ab805f220b18877d57b8aa33d77/jars/classes.jar!/com/google/firebase/FirebaseApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/provider/Settings.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="140184">
+            <caret line="5947" column="35" selection-start-line="5947" selection-start-column="35" selection-end-line="5947" selection-end-column="35" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/database/ContentObserver.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="504">
+            <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommonLib/src/main/java/com/mi/android/globallauncher/commonlib/config/RemoteConfig.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="912">
+            <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dc598f445428069d469f34eafad2cd3/jars/classes.jar!/io/branch/search/a.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ItemInfo.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="231">
+            <caret line="231" selection-start-line="231" selection-end-line="231" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/PlayAutoInstallHelper.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-30/android/text/TextUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="397">
+            <caret line="542" selection-start-line="542" selection-end-line="542" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherModel.java">
-      <provider selected="true" editor-type-id="android-source-code" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchResultUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="147">
+            <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/base.apk">
-      <provider selected="true" editor-type-id="apk-viewer" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0616249275d093e0ffa35ed63b4e437a/jars/classes.jar!/io/branch/search/ui/BranchEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/BackgroundThread.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="240">
+            <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="960">
+            <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherApplication.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="3048">
+            <caret line="202" column="33" selection-start-line="202" selection-start-column="33" selection-end-line="202" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/ZclUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="240">
+            <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/pai/BackgroundThread.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="408">
+            <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuideDialogUtil.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="408">
+            <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="2280">
+            <caret line="125" column="65" selection-start-line="125" selection-start-column="65" selection-end-line="125" selection-end-column="65" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialRemoteConfig.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1416">
+            <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialInit.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-39">
+            <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/AnalyticalDataJobService.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="238">
+            <caret line="146" column="32" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="429">
+            <caret line="501" column="54" selection-start-line="501" selection-start-column="54" selection-end-line="501" selection-end-column="54" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dc598f445428069d469f34eafad2cd3/jars/classes.jar!/io/branch/search/ui/BranchEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="20" column="71" lean-forward="true" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

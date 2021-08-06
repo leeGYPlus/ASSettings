@@ -1,0 +1,134 @@
+<project version="4">
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="FM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="FM" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="MiuiHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="MiuiHome" type="462c0819:PsiDirectoryNode" />
+              <item name="smallwindow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="MiuiHome" type="462c0819:PsiDirectoryNode" />
+              <item name="smallwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="MiuiHome" type="462c0819:PsiDirectoryNode" />
+              <item name="smallwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decouple_res" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decouple_res" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="MiuiHome" type="462c0819:PsiDirectoryNode" />
+              <item name="smallwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-688" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32964718" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.78822315" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Gradle View" order="5" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="-1820" y="-25" width="1720" height="880" key="DiffContextDialog" timestamp="1627550667025">
+      <screen x="-1920" y="-100" width="1920" height="1055" />
+    </state>
+    <state x="-1820" y="-25" width="1720" height="880" key="DiffContextDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1627550366186" />
+    <state x="-1820" y="-25" width="1720" height="880" key="DiffContextDialog/0.25.1440.875/-1920.-100.1920.1055@-1920.-100.1920.1055" timestamp="1627550667025" />
+    <state x="-1160" y="71" width="400" height="688" key="VcsDiffUtil.ChangesDialog" timestamp="1627550376529">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1160" y="71" width="400" height="688" key="VcsDiffUtil.ChangesDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1627550376529" />
+  </component>
+</project>

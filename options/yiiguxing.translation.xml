@@ -2,6 +2,35 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Utility method for finding an internal RecyclerView, if present" />
+      <item value="alidate" />
+      <item value="Does a dry run, finds the ViewHolder but does not remove" />
+      <item value="non-invalid" />
+      <item value="exact" />
+      <item value="Try first for an exact, non-invalid match from scrap" />
+      <item value="traversal" />
+      <item value="resolve layout direction" />
+      <item value="resolve" />
+      <item value="scroll to fulfill requirements like stack from bottom" />
+      <item value="scroll to fulfill requirements like stack from bottom. create layout state" />
+      <item value="by checking children and other variables, find an anchor coordinate and an anchor item position." />
+      <item value="fill towards start, stacking from bottom" />
+      <item value="eligible" />
+      <item value="cookie" />
+      <item value="If play store continues auto updating an app, we want to show partial result." />
+      <item value="Elderly Man Mode" />
+      <item value="Provisione" />
+      <item value="Elderly" />
+      <item value="Algorithm" />
+      <item value="scrap" />
+      <item value="Transient" />
+      <item value="Views in mActiveViews represent a contiguous range of Views, with position of the first view store in mFirstActivePosition." />
+      <item value="Unsorted views that can be used by the adapter as a convert view." />
+      <item value="The RecycleBin facilitates reuse of views across layouts. The RecycleBin has two levels of storage: ActiveViews and ScrapViews. ActiveViews are those views which were onscreen at the start of a layout. By construction, they are displaying current information. At the end of layout, all views in ActiveViews are demoted to ScrapViews. ScrapViews are old views that could potentially be used by the adapter to avoid allocating views unnecessarily." />
+      <item value="Base class that can be used to implement virtualized lists of items. A list does not have a spatial definition here. For instance, subclasses of this class can display the content of the list in a grid, in a carousel, as stack, etc." />
+      <item value="transitive" />
+      <item value="&lt;p&gt;This can be used as a reasonable signal that the view is about to be seen by the user. If the adapter previously freed any resources in {@link onViewDetachedFromWindow(RecyclerView.ViewHolder) onViewDetachedFromWindow} those resources should be restored here.&lt;p&gt;" />
+      <item value="retrieve" />
       <item value="Panel" />
       <item value="persistent" />
       <item value="Sensor" />
@@ -23,35 +52,6 @@
       <item value="Visits a LDC instruction" />
       <item value="Visits a method instruction. A method instruction is an instruction that invokes a method." />
       <item value="Visits the nest host class of the class" />
-      <item value="Visit the module corresponding to the class" />
-      <item value="An entry of the constant pool" />
-      <item value="Visits an instruction with a single int operand." />
-      <item value="Possible values for the reference_kind field of CONSTANT_MethodHandle_info structures." />
-      <item value="Possible values for the type operand of the NEWARRAY instruction." />
-      <item value="ASM specific access flags." />
-      <item value="Access flags values" />
-      <item value="Version flag indicating that the class is using 'preview' features." />
-      <item value="The JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
-      <item value="opcodes" />
-      <item value="A {@link ClassVisitor} that generates a corresponding ClassFile structure, as defined in the Java Virtual Machine Specification (JVMS). It can be used alone, to generate a Java class &quot;from scratch&quot;, or with one or more {@link ClassReader} and adapter {@link ClassVisitor} to generate a modified class from one or more existing Java classes." />
-      <item value="A flag to automatically compute the maximum stack size and the maximum number of local variables of methods. If this flag is set, then the arguments of the {@link MethodVisitorvisitMaxs} method of the {@link MethodVisitor} returned by the {@link visitMethod} method will be ignored, and computed automatically from the signature and the bytecode of each method." />
-      <item value="dontwarn" />
-      <item value="Wire" />
-      <item value="layout" />
-      <item value="This has the same meaning as the above but also encodes the line number range of the member. This may be followed by multiple inline mappings of the form" />
-      <item value="Due to inlining, we might have the above prefixed with a range" />
-      <item value="which maps the member with the given signature to the new name. This mapping is not bidirectional as member names are overloaded by signature. To make it bidirectional, we extend the name with the signature of the original member." />
-      <item value="bidirectional" />
-      <item value="COLON" />
-      <item value="Parses a Proguard mapping file and produces mappings from obfuscated class names to the original name and from obfuscated member signatures to the original members the obfuscated member was formed of." />
-      <item value="The setup of a retracer should likely also follow a builder pattern instead of having static create methods. That would avoid the need to method overload the construction here and the default create would become the default build of a retracer." />
-      <item value="refined" />
-      <item value="Specialized Retrace class for retracing string retraces, with special handling for appending additional information into the strings, such as OR's for ambiguous lines." />
-      <item value="retrace" />
-      <item value="retraced" />
-      <item value="A DiagnosticsHandler can be provided to customize handling of diagnostics information." />
-      <item value="Diagnostics" />
-      <item value="wildcards" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625105009218" />
+    <option name="lastTrimTime" value="1628145474375" />
   </component>
 </application>

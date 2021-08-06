@@ -71,6 +71,7 @@
       <find>mLifecycleRegistry</find>
       <find>adapter</find>
       <find>photoList</find>
+      <find>debuggable</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/app</dir>
@@ -106,7 +107,7 @@
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.20314735" />
-      <window_info id="Structure" order="2" side_tool="true" visible="true" weight="0.15867944" />
+      <window_info id="Structure" order="2" side_tool="true" visible="true" weight="0.16187434" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Commit" order="4" />
       <window_info id="Resources Explorer" order="5" />
@@ -124,7 +125,7 @@
       <window_info anchor="bottom" id="Database Inspector" order="10" />
       <window_info anchor="bottom" id="Android Profiler" order="11" />
       <window_info anchor="bottom" id="Find" order="12" />
-      <window_info anchor="bottom" id="Layout Inspector" order="13" side_tool="true" visible="true" weight="0.34607437" />
+      <window_info anchor="bottom" id="Layout Inspector" order="13" side_tool="true" visible="true" weight="0.3626033" />
       <window_info anchor="bottom" id="Logcat" order="14" weight="0.32994923" />
       <window_info anchor="right" id="Gradle" order="0" weight="0.3297568" />
       <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
@@ -155,12 +156,12 @@
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="49" />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.33-beta/d1609585e8fd29c3f9d65ddc9e65d412acaf618e/hilt-android-2.33-beta-sources.jar!/dagger/hilt/android/AndroidEntryPoint.java">
       <provider selected="true" editor-type-id="android-source-code" />
@@ -276,6 +277,9 @@
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.3.0/36a4f870521a07778cf045be0274793c6298ec6/lifecycle-common-2.3.0-sources.jar!/androidx/lifecycle/LifecycleEventObserver.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/10264/base.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.3.0/ae7040cf314de81d20ac69f28f5ab6c9a2c0d1ab/lifecycle-runtime-2.3.0-sources.jar!/androidx/lifecycle/LifecycleRegistry.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
@@ -299,9 +303,6 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.3.0/36a4f870521a07778cf045be0274793c6298ec6/lifecycle-common-2.3.0-sources.jar!/androidx/lifecycle/Lifecycle.java">
       <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/10264/base.apk">
-      <provider selected="true" editor-type-id="apk-viewer" />
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-runtime/3.0.0-alpha02/ca880685cc407d64329a5442f276a7e64c1e6033/paging-runtime-3.0.0-alpha02-sources.jar!/androidx/paging/AsyncPagingDataDiffer.kt">
       <provider selected="true" editor-type-id="android-source-code" />

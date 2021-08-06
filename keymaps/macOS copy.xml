@@ -1,7 +1,16 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />

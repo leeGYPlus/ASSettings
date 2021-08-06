@@ -30,15 +30,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="552">
               <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/20.0.3/c5724a69f16f5ffaba0c67d7348135a5ce943456/firebase-config-20.0.3-sources.jar!/com/google/firebase/remoteconfig/FirebaseRemoteConfig.java">
-          <provider selected="true" editor-type-id="android-source-code" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -204,12 +199,39 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="AndroidView">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="FileExplorerGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="android.fileexplorer" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="android.fileexplorer" type="1f31426a:PackageElementNode" />
+              <item name="manager" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Scratches and Consoles'; set:Scratches and Consoles; class com.intellij.ide.scratch.ScratchesNamedScope">
+          <expand>
+            <path>
+              <item name="FileExplorerGlobal" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="FileExplorerGlobal" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -420,61 +442,16 @@
               <item name="FileExplorerGlobal" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="FileExplorerGlobal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.firebase:firebase-config:20.0.3@aar" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="FileExplorerGlobal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.firebase:firebase-config:20.0.3@aar" type="70bed36:NamedLibraryElementNode" />
-              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileExplorerGlobal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.firebase:firebase-config:20.0.3@aar" type="70bed36:NamedLibraryElementNode" />
-              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="remoteconfig" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Scratches and Consoles'; set:Scratches and Consoles; class com.intellij.ide.scratch.ScratchesNamedScope">
-          <expand>
-            <path>
-              <item name="FileExplorerGlobal" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="FileExplorerGlobal" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
+      <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
-              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="android.fileexplorer" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="FileExplorerGlobal" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="android.fileexplorer" type="1f31426a:PackageElementNode" />
-              <item name="manager" type="1f31426a:PackageElementNode" />
+              <item name="FileExplorerGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -500,9 +477,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49288255" visible="true" weight="0.38483548" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49288255" visible="true" weight="0.3962804" />
       <window_info id="Structure" order="2" sideWeight="0.5051653" side_tool="true" weight="0.22097977" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Commit" order="4" />
@@ -511,11 +489,12 @@
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.5072314" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.3285124" />
-      <window_info anchor="bottom" id="Version Control" order="3" visible="true" weight="0.5190355" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.5507614" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.41878173" />
       <window_info anchor="bottom" id="clangd" order="5" />
       <window_info anchor="bottom" id="Database Inspector" order="6" />
       <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Gradle View" order="7" />
       <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.79591835" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.3264463" />
@@ -615,9 +594,7 @@
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
     <entry file="file://$PROJECT_DIR$/miapm-map-gradle-plugin/src/main/kotlin/com/miui/miapm/map/tasks/InjectMappingFieldIdTask.kt" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.4.1/b53425ecc214f5032c45bc05399419603bc1bd1f/gradle-api-3.4.1-sources.jar!/com/android/build/api/variant/VariantFilter.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.4.1/b53425ecc214f5032c45bc05399419603bc1bd1f/gradle-api-3.4.1-sources.jar!/com/android/build/api/variant/VariantFilter.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/fileexplorer/util/BatterLogUtils.java" />
     <entry file="file://$PROJECT_DIR$/miapm-map-gradle-plugin/src/main/kotlin/com/miui/miapm/map/MIAPMMapPlugin.kt" />
     <entry file="file://$PROJECT_DIR$/miapm-map-gradle-plugin/src/main/kotlin/com/miui/miapm/map/internal/DexguardCompat.kt" />
@@ -627,9 +604,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/miapm-map-gradle-plugin/src/main/kotlin/com/miui/miapm/map/internal/GradleUtil.kt" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.4.1/7673bc82b7b8d6bbe6a4ed3a89ef7948284dbd9/gradle-3.4.1-sources.jar!/com/android/build/gradle/BaseExtension.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.4.1/7673bc82b7b8d6bbe6a4ed3a89ef7948284dbd9/gradle-3.4.1-sources.jar!/com/android/build/gradle/BaseExtension.java" />
     <entry file="file://$PROJECT_DIR$/miapm-map-gradle-plugin/gradle.properties" />
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
@@ -724,6 +699,20 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/fileexplorer/AbsApplicationProxy.java">
       <provider selected="true" editor-type-id="android-source-code" />
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/20.0.3/c5724a69f16f5ffaba0c67d7348135a5ce943456/firebase-config-20.0.3-sources.jar!/com/google/firebase/remoteconfig/FirebaseRemoteConfig.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bumptech/glide/util/GlideCacheUtils.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/fileexplorer/recommend/cloudconfig/NativeAdConfigHelper.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6840">
@@ -746,22 +735,6 @@
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bumptech/glide/util/GlideCacheUtils.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/20.0.3/c5724a69f16f5ffaba0c67d7348135a5ce943456/firebase-config-20.0.3-sources.jar!/com/google/firebase/remoteconfig/FirebaseRemoteConfig.java">
-      <provider selected="true" editor-type-id="android-source-code" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/fileexplorer/recommend/cloudconfig/NativeAdConfigHelper.java">
-      <provider selected="true" editor-type-id="android-source-code" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/fileexplorer/whatsapp/WhatsAppTabAppTagFragment.java">
       <provider selected="true" editor-type-id="android-source-code" />

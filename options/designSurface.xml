@@ -2,47 +2,83 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="Commercial/src/main/res/drawable/all_apps_handle_bg_dark.xml" value="0.3885416666666667" />
         <entry key="Commercial/src/main/res/drawable/all_apps_handle_bg_light.xml" value="0.3885416666666667" />
         <entry key="Commercial/src/main/res/drawable/all_apps_search_mask_divider.xml" value="0.3885416666666667" />
-        <entry key="Commercial/src/main/res/layout/all_apps_search_frequent_use.xml" value="0.2078125" />
+        <entry key="Commercial/src/main/res/drawable/branch_item_bg_bottom_radius.xml" value="0.3885416666666667" />
+        <entry key="Commercial/src/main/res/drawable/branch_item_bg_bottom_radius_dark.xml" value="0.38256410256410256" />
+        <entry key="Commercial/src/main/res/drawable/branch_item_bg_no_radius.xml" value="0.3885416666666667" />
+        <entry key="Commercial/src/main/res/drawable/branch_item_bg_top_radius.xml" value="0.3885416666666667" />
+        <entry key="Commercial/src/main/res/drawable/branch_item_card_bg.xml" value="0.3885416666666667" />
+        <entry key="Commercial/src/main/res/drawable/round_white_rectangle.xml" value="0.38256410256410256" />
+        <entry key="Commercial/src/main/res/layout/all_apps_quick_search_guide.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_frequent_use.xml" value="0.3734375" />
         <entry key="Commercial/src/main/res/layout/all_apps_search_guide.xml" value="0.3734375" />
-        <entry key="Commercial/src/main/res/layout/all_apps_search_location_permission.xml" value="0.2078125" />
-        <entry key="Commercial/src/main/res/layout/all_apps_search_recommend.xml" value="0.2078125" />
-        <entry key="Commercial/src/main/res/layout/all_apps_search_result_hint.xml" value="0.2078125" />
-        <entry key="Commercial/src/main/res/layout/all_apps_search_result_mask.xml" value="0.22" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_location_permission.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_recommend.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_recommend_item.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_result_hint.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_search_result_mask.xml" value="0.41458333333333336" />
         <entry key="Commercial/src/main/res/layout/all_apps_uni_auto_suggest.xml" value="0.3734375" />
-        <entry key="Commercial/src/main/res/layout/all_apps_uni_search_item.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_lcoal_search_item.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_lds_search_item.xml" value="0.1" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_new_search_item.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_new_search_item_2.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_remote_search_item.xml" value="0.2677083333333333" />
+        <entry key="Commercial/src/main/res/layout/all_apps_uni_search_item.xml" value="0.35462962962962963" />
         <entry key="Commercial/src/main/res/layout/all_apps_uni_search_loading.xml" value="0.20729166666666668" />
+        <entry key="Commercial/src/main/res/layout/all_apps_zero_state_item.xml" value="0.3734375" />
         <entry key="Commercial/src/main/res/layout/branch_privacy_dialog_view.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/branch_result_only_one_content.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/branch_search_linear.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/dfdf.xml" value="0.3734375" />
+        <entry key="Commercial/src/main/res/layout/local_shortcut_layout.xml" value="0.3734375" />
         <entry key="PocoLauncher/src/main/res/layout/about_settings_fragment.xml" value="0.3734375" />
         <entry key="PocoLauncher/src/main/res/layout/home_settings_activity.xml" value="0.3734375" />
         <entry key="PocoLauncher/src/main/res/layout/launcher_first_guide_storage_permission.xml" value="0.20729166666666668" />
         <entry key="PocoLauncher/src/main/res/xml/app_drawer_settings.xml" value="1.0" />
         <entry key="PocoLauncher/src/main/res/xml/home_screen_settings.xml" value="1.0" />
         <entry key="PocoLauncher/src/main/res/xml/privacy_settings.xml" value="1.0" />
+        <entry key="app/recents/res/drawable/navigation_bar_guide_app_menu.xml" value="0.3885416666666667" />
+        <entry key="app/recents/res/drawable/navigation_bar_guide_app_menu_without_gs_line.xml" value="0.3885416666666667" />
         <entry key="app/recents/res/layout/recent_menu_view.xml" value="0.153125" />
+        <entry key="app/res/drawable/launcher_menu_top_item_bg.xml" value="0.22395833333333334" />
         <entry key="app/res/layout/all_apps.xml" value="0.3734375" />
         <entry key="app/res/layout/all_apps_category_container.xml" value="0.3734375" />
         <entry key="app/res/layout/all_apps_fast_scroller.xml" value="0.3734375" />
         <entry key="app/res/layout/all_apps_indicator.xml" value="0.3734375" />
         <entry key="app/res/layout/all_apps_search_container.xml" value="0.3734375" />
+        <entry key="app/res/layout/application_all_apps.xml" value="0.3734375" />
+        <entry key="app/res/layout/application_select.xml" value="0.3734375" />
         <entry key="app/res/layout/fragment_apps_list.xml" value="0.3734375" />
-        <entry key="app/res/layout/fragment_customize_app_category.xml" value="0.25" />
+        <entry key="app/res/layout/fragment_customize_app_category.xml" value="0.6898907103825137" />
+        <entry key="app/res/layout/fragment_search_app_list.xml" value="0.3734375" />
+        <entry key="app/res/layout/fragment_search_category_select.xml" value="0.3734375" />
+        <entry key="app/res/layout/fragment_works_apps_list.xml" value="0.3734375" />
+        <entry key="app/res/layout/icon_message.xml" value="0.3734375" />
+        <entry key="app/res/layout/icon_title.xml" value="0.1953125" />
+        <entry key="app/res/layout/item_category.xml" value="0.3734375" />
         <entry key="app/res/layout/launcher.xml" value="1.0" />
         <entry key="app/res/layout/launcher_without_minus_screen.xml" value="1.0" />
-        <entry key="app/res/xml/all_apps_settings.xml" value="0.2078125" />
+        <entry key="app/res/xml/all_apps_settings.xml" value="0.3734375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.26944444444444443" />
         <entry key="app/src/main/res/layout/activity_feedback.xml" value="0.3734375" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.14427083333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/activity_test_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/clean_up_tip_whatsapp.xml" value="0.2574074074074074" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/drag_up_down.xml" value="0.12407407407407407" />
         <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_app_tag.xml" value="0.3625" />
         <entry key="app/src/main/res/layout/list_menu_item_layout.xml" value="0.11666666666666667" />
+        <entry key="app/src/main/res/layout/list_view_item.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/layout/listview_test.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/layout/navigation_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2947916666666667" />
         <entry key="transform/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
