@@ -1,0 +1,615 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/release-2.1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/res/layout/delete_app_list_item.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/layout/all_apps_uni_lds_search_item.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/AllAppsGridAdapter.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="-1726">
+                <caret line="513" column="18" selection-start-line="513" selection-start-column="18" selection-end-line="513" selection-end-column="18" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/BncProxyInstance.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="122">
+                <caret line="13" column="45" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="45" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchAlgorithm.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="69">
+                <caret line="73" column="111" lean-forward="true" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskView.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="209">
+                <caret line="235" column="5" lean-forward="true" selection-start-line="235" selection-start-column="5" selection-end-line="235" selection-end-column="5" />
+              </editor-state>
+              <multi-preview-state selected="Custom views">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/AllAppsContainerView.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="329">
+                <caret line="150" selection-start-line="150" selection-end-line="150" />
+              </editor-state>
+              <multi-preview-state selected="Custom views">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchViewModel.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="1416">
+                <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>appendLoca</find>
+      <find>appendBranch</find>
+      <find>Dark mode</find>
+      <find>country</find>
+      <find>ro.miui.region</find>
+      <find>Cannot create a proxy class for abstract class 'GoogleServicesTask'</find>
+      <find>com.google.gms:google-services</find>
+      <find>BranchSearchManager</find>
+      <find>io.branch.</find>
+      <find>FirebaseCrashlytics</find>
+      <find>&lt;&lt;&lt;</find>
+      <find>io.branch</find>
+      <find>// TODO: LGY</find>
+      <find>BranchNavigatorClient.getInstance()</find>
+      <find>BranchNavigatorCore.init</find>
+      <find>optInToTracking</find>
+      <find>activate()</find>
+      <find>?android:</find>
+      <find>@android</find>
+      <find>@style/</find>
+      <find>Installed</find>
+      <find>app_install_state</find>
+      <find>tv_installed</find>
+      <find>BncProxyInstance.INSTANCE.getInstance()</find>
+      <find>BncProxyInstance.INSTANCE.getInstance</find>
+      <find>branchInstance.</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/src/com/miui/home/launcher/search</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/local</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util</dir>
+      <dir>$PROJECT_DIR$/app/src/com/miui/home/launcher</dir>
+      <dir>$PROJECT_DIR$/app/src/com/miui/home/settings</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher</dir>
+      <dir>$PROJECT_DIR$/app/res/drawable</dir>
+      <dir>$PROJECT_DIR$/app/res/layout</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/res/layout</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search</dir>
+      <dir>$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/launcher/search/GlobalSearchEdgeEffect.java" />
+      <option value="$PROJECT_DIR$/Commercial/build.gradle" />
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/launcher/Application.java" />
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/launcher/LauncherApplicationDelegate.java" />
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/settings/AllAppsSettingsFragment.java" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialCloudConfigJobService.java" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialInit.java" />
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/AllAppsContainerView.java" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchAlgorithm.java" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskView.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="MiuiHome-history1" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25182292" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.49704432" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" weight="0.32955664" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.4408867" />
+      <window_info anchor="bottom" id="Logcat V2" order="10" />
+      <window_info anchor="bottom" id="Layout Inspector" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="App Inspection" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.4635468" />
+      <window_info anchor="bottom" id="clangd" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Android Emulator" order="2" side_tool="true" />
+      <window_info anchor="right" id="Device Manager" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Logcat</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="768" y="231" width="378" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1647847654628">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="768" y="231" width="378" height="583" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647847654628" />
+    <state x="98" y="100" width="1724" height="845" key="DiffContextDialog" timestamp="1647929769975">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="98" y="100" width="1724" height="845" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1042@0.0.1920.1042" timestamp="1647093932122" />
+    <state x="98" y="100" width="1724" height="845" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647929769975" />
+    <state x="456" y="157" key="SettingsEditor" timestamp="1647930177108">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="456" y="157" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647930177108" />
+    <state width="550" height="528" key="SwitcherDM" timestamp="1647848044711">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state width="550" height="528" key="SwitcherDM/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647848044711" />
+    <state x="766" y="170" width="382" height="704" key="VCS.ChangeListViewerDialog" timestamp="1647854366010">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="766" y="170" width="382" height="704" key="VCS.ChangeListViewerDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647854366010" />
+    <state x="650" y="367" width="613" height="311" key="edit.logcat.filter.dialog.dimensions" timestamp="1647929372159">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="650" y="367" width="613" height="311" key="edit.logcat.filter.dialog.dimensions/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647929372159" />
+    <state x="725" y="130" width="638" height="762" key="find.popup" timestamp="1647929918074">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="725" y="729" width="568" height="762" key="find.popup/1920.0.1080.1920/0.594.1920.1080@0.594.1920.1080" timestamp="1647072469543" />
+    <state x="725" y="130" width="638" height="762" key="find.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647929918074" />
+    <state x="729" y="227" width="491" height="588" key="git4idea.branch.GitSmartOperationDialog" timestamp="1647865695207">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="729" y="227" width="491" height="588" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647865695207" />
+    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup" timestamp="1647847666181">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="623" y="824" width="672" height="685" key="search.everywhere.popup/1920.0.1080.1920/0.594.1920.1080@0.594.1920.1080" timestamp="1647050993259" />
+    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647847666181" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/BaseAlphabeticalAppsList.java" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;760031549&quot;,&quot;projectHash&quot;:&quot;d676a3b5&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;release-4.21.15&quot;,&quot;inclusiveRef&quot;:&quot;origin/release-3.2&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/gy/MiRepos/MiuiHome&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/search/AppListSearchFragment.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state>
+            <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/search/GlobalSearchEdgeEffect.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2016">
+            <caret line="104" selection-start-line="104" selection-end-line="104" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/local/BranchLinearAndGridAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialHttpUtils.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/build.gradle" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/366b0dc9a08caf57465305c4b020adb4/jars/classes.jar!/io/branch/search/logger/BranchLogConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/Application.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="386">
+            <caret line="107" selection-start-line="107" selection-end-line="107" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/LauncherModeController.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="290">
+            <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/config/CommercialCloudConfigJobService.java" />
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/CommercialInit.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="840">
+            <caret line="50" column="71" selection-start-line="50" selection-start-column="71" selection-end-line="50" selection-end-column="71" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/res/drawable/grid_selector.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/layout/all_apps_search_result_divider.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/platforms/android-30/data/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/platforms/android-30/data/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6696">
+          <caret line="279" column="20" selection-start-line="279" selection-start-column="20" selection-end-line="279" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/settings/AllAppsSettingsFragment.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="5496">
+            <caret line="277" column="66" selection-start-line="277" selection-start-column="66" selection-end-line="277" selection-end-column="66" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2088">
+            <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/LauncherApplicationDelegate.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="816">
+            <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/res/layout/delete_app_list_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/layout/all_apps_uni_lds_search_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/AllAppsGridAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-1726">
+            <caret line="513" column="18" selection-start-line="513" selection-start-column="18" selection-end-line="513" selection-end-column="18" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/BncProxyInstance.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="122">
+            <caret line="13" column="45" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="45" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchViewModel.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1416">
+            <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/allapps/AllAppsContainerView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="329">
+            <caret line="150" selection-start-line="150" selection-end-line="150" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/search/SearchResultMaskView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="209">
+            <caret line="235" column="5" lean-forward="true" selection-start-line="235" selection-start-column="5" selection-end-line="235" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchAlgorithm.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="69">
+            <caret line="73" column="111" lean-forward="true" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,7 +1,0 @@
-cn.yiiguxing.plugin.translate+3.1-201
-com.alibaba.p3c.smartfox+2.1.1
-izhangzhihao.rainbow.brackets+6.18
-jclasslib+5.7
-cn.yiiguxing.plugin.translate+3.0.3
-jclasslib+6.0
-com.developerphil.adbidea+1.6.3
