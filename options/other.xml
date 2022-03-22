@@ -1,52 +1,37 @@
 <application>
-  <component name="NotRoamableUiSettings">
-    <option name="fontFace" value="Noto Sans Adlam" />
-    <option name="ideAAType" value="Greyscale" />
-  </component>
   <component name="ProjectPluginTrackerManager">
-    <option name="trackers">
+    <trackers>
       <map>
-        <entry key="1u6X70VKsWygkYGNzk46QJOcTxx">
+        <entry key="26E4UUbnu8pXbLjqgEYq7O2VgqC">
           <value>
-            <ProjectPluginTrackerState />
+            <ProjectPluginTracker />
           </value>
         </entry>
-        <entry key="1u73b5eIuRbhXwt6RcN1ez7MNfB">
+        <entry key="26ELnVY2CFhjawnFPUBJQeB4ocy">
           <value>
-            <ProjectPluginTrackerState />
+            <ProjectPluginTracker />
           </value>
         </entry>
-        <entry key="1vz1pzVqRAJ9v6rCIeeIeBNeXAV">
+        <entry key="26EYWVEvE44REWOZjhZDM2yXJVI">
           <value>
-            <ProjectPluginTrackerState />
+            <ProjectPluginTracker />
           </value>
         </entry>
-        <entry key="1w9ZlPLwyzxUgcjNbOo5xsbGZf5">
+        <entry key="26VHjVHsGsk5fo7qR5YR5TZT8sr">
           <value>
-            <ProjectPluginTrackerState />
+            <ProjectPluginTracker />
           </value>
         </entry>
-        <entry key="1wIRDKq1ng46hIlVkKpRAzaTyWn">
+        <entry key="26ip5givIZTOLEcPF9GfOPzIxx2">
           <value>
-            <ProjectPluginTrackerState />
-          </value>
-        </entry>
-        <entry key="1wIyamnyzKG72M6SqUFxwOJYih8">
-          <value>
-            <ProjectPluginTrackerState />
+            <ProjectPluginTracker />
           </value>
         </entry>
       </map>
-    </option>
+    </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="08853737-5a51-4c05-8532-a1ba33abc7a4" value="MTYyNDUxNzExMjExMg==" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER" value="" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.TOOL_ORDER" value="DATABASES" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED" value="false" />
@@ -57,43 +42,6 @@
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER" value="" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.DEACTIVATED.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.DEACTIVATED.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.DEACTIVATED.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.DEACTIVATED.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.DEACTIVATED.LEFT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.DEACTIVATED.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,TREE,HOSTS" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.DEACTIVATED.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.DEACTIVATED.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.DEACTIVATED.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.DEACTIVATED.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.MINIMIZED" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.AUTO_HIDE" value="false" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.SPLIT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED" value="false" />
@@ -133,25 +81,12 @@
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Visualization.TOOL_ORDER" value="" />
     <property name="ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER" value="" />
-    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.DATABASES.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.TOOL_ORDER" value="DATABASES" />
-    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.PROPERTIES.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH" value="599" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TEXT_SEARCH_HISTORY" value="vi" />
     <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
     <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER" value="" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.DEACTIVATED.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.FULL.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,TREE,HOSTS" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.DEACTIVATED.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.DEACTIVATED.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.SPLIT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.MINIMIZED" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.SPLIT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
@@ -161,7 +96,6 @@
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
@@ -170,222 +104,83 @@
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
-    <property name="AndroidPlatformName" value="Android API 25 Platform" />
-    <property name="BuildView.Splitter.Proportion" value="0.24932396" />
-    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.22630458" />
-    <property name="ColorChooser.RecentColors" value="0-112-187-255,,,72-187-49-255,,,187-187-35-255,,,255-0-6-255,,,143-0-5-255,,,187-187-187-255" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60768175" />
-    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="FindSplitterProportion" value="0.0" />
-    <property name="INSPECTION_FILTER_HISTORY" value="seri&#10;ser" />
-    <property name="INTENTION_FILTER_HISTORY" value="Serializable&#10;ser" />
-    <property name="InstalledPluginsSearchHistory" value="Git&#10;sq&#10;s&#10;keymap&#10;key" />
-    <property name="KEYMAP" value="attach&#10;sync&#10;clean&#10;run anyth&#10;run any" />
-    <property name="LOG_FILTER_HISTORY" value="h_log&#10;KK&#10;KKKK&#10;KKKKKK&#10;BranchSearchAlgorithm" />
-    <property name="LayoutCode.optimizeImports" value="false" />
-    <property name="LayoutCode.processChangedText" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="gradle view&#10;gradle&#10;sql&#10;s&#10;adb" />
+    <property name="FindSplitterProportion" value="0.46530613" />
+    <property name="KEYMAP" value="end&#10;back&#10;forwar&#10;occur&#10;find" />
+    <property name="LOG_FILTER_HISTORY" value="LGY&#10;onResume&#10;BranchRequestManager" />
+    <property name="LOG_FILTER_PACKAGE_NAME_HISTORY" value="io.branch.search.test" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="MobileminApi" value="24" />
-    <property name="NlScreenMode" value="RENDER" />
     <property name="NlScreenModeProvider" value="RENDER" />
-    <property name="NonModalCommitPromotionState" value="SHOWN" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="ProjectStructure.TopLevelElements" value="0.17" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
-    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
     <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
-    <property name="SAVED_RENDER_LANGUAGE" value="Java" />
-    <property name="SHELLCHECK.PATH" value="I do mind" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/AnExplorer/app/src/main/res/layout-sw600dp-land/activity.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/HenCoderPlus/CustomView_01/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/HenCoderPlus/CustomView_01/app/src/main/res/layout/activity_main2.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/HenCoderPlus/CustomView_01/app/src/main/res/layout/drag_up_down.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/HenCoderPlus/CustomView_01/app/src/main/res/layout/list_view_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/HenCoderPlus/CustomView_01/app/src/main/res/layout/listview_test.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/MyApplication6/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/TestApp/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/TestBranch2/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/YCAndroidTool/ToolLib/src/main/res/layout/activity_crash_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/leakcanary/leakcanary-android-sample/src/main/res/layout/main_activity.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/sunflower/app/src/main/res/layout/activity_garden.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Git/sunflower/app/src/main/res/navigation/nav_garden.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/drawable/recent_ad_delete_file_big_image_bg.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_custom_action_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_custom_actionbar.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_custom_more.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_custom_view_phone.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_immersion.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/action_bar_setting_custon_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_feedback.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_fragment.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_fragment_merge.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_privacy.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_search_detail.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/activity_video_player.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/base_fragment_group.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/base_fragment_tab.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/category_native_layout_container.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/clean_up_tip_whatsapp.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/content_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/custom_progress_dialog_horizontal.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/custom_search_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/dialog_revoke_auth.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/dropdown_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/empty_file_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/file_storage_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/file_tips_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_app_tag.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_base_file_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_category.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_doc_tab.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_file_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_recent.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/fragment_result.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/information_dialog.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/item_container.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/item_drawer_menu_container.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/item_group_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/item_group_usb.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/item_picture_grid.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/layout_category_grid.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/layout_clean_btn.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/layout_clean_whatsapp_btn.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/layout_list_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/list_native_ad_delete_file_ab_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/list_native_ad_normal.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/list_native_ad_recent_ab_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/list_native_ad_recent_common_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/list_native_mtad_recent_common_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/navigation_bar.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/path_gallery_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/request_document_tree_permission.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/rlv_footer.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/split_item_apps.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/textinput_dialog.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/top_toast_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/video_ad_icon_pop_tip_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/main/res/layout/video_native_ad_common_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/dialog_edit_remote_smb_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/ftp_type_choose.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/op_activity_deepclean_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/server_control_activity.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/server_control_activity_footer.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/app/src/market/res/layout/server_control_activity_header.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/explorerplayer/src/main/res/layout/layout_controller_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/explorerplayer/src/main/res/layout/layout_loadding.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/FileExplorerGlobal/explorerplayer/src/main/res/layout/layout_play_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1615618928605/res/layout/action_bar_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1615618928605/res/layout/activity_about.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1615618928605/res/layout/provision_chooser_activity.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1616465460437/res/layout/action_bar_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1616465460437/res/layout/activity_unsupported_data_details.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1617011106035/res/layout/activity_guest.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/build/buildPreprocess/1617011106035/res/layout/activity_host.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/activity_install_guide.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/activity_privacy.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/activity_transfer.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/activity_waiting.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/layout/dialog_score.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiTransfer/app/src/main/res/xml/preferences.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/drawable/branch_dark_bg_grey.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_frequent_use.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_guide.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_recommend.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_recommend_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_result_hint.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_search_result_mask.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_auto_suggest.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_lcoal_search_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_new_search_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_new_search_item_2.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_remote_search_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_search_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_search_loading.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/all_apps_zero_state_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/branch_privacy_dialog_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/branch_result_only_one_content.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/branch_search_linear.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/dfdf.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/Commercial/src/main/res/layout/local_shortcut_layout.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/recents/res/layout/recent_menu_view.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/all_apps.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/all_apps_category_container.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/all_apps_fast_scroller.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/all_apps_indicator.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/all_apps_search_container.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/application_all_apps.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/fragment_apps_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/fragment_customize_app_category.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/fragment_search_app_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/fragment_search_category_select.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/fragment_works_apps_list.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/icon_message.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/icon_title.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/launcher.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/layout/launcher_without_minus_screen.xml" value="FULL" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHome/app/res/xml/all_apps_settings.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_search_result_mask.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_uni_search_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_zero_state_item.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/PocoLauncher/src/main/res/layout/home_settings_activity.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/PocoLauncher/src/main/res/xml/home_screen_settings.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/MiuiHomeGlobal/PocoLauncher/src/main/res/xml/privacy_settings.xml" value="DEACTIVATED" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/ThemeManager/resmodule/src/main/res/xml/preferences.xml" value="SPLIT" />
-    <property name="SPLIT_EDITOR_MODE_/Users/liguoying/Mi_Repo/mi.apm/MiAPM/miapm-block/src/main/res/layout/float_frame_view.xml" value="SPLIT" />
-    <property name="SettingsSearchHistory" value="live&#10;Git&#10;encode&#10;key ma&#10;tem" />
-    <property name="ShowDocumentationInToolWindow" value="true" />
-    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.6822612" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/Browser/res/xml/incognito_preference_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/Browser/res/xml/main_preference_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/activity_branch.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/activity_privacy.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_search_lds_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_search_recommend.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_search_recommend_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_search_result_hint.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_search_result_mask.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_uni_auto_suggest.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_uni_lds_search_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/all_apps_zero_state_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/branch_search_guide.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/branch_search_linear.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/branch_search_result_page.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/home_settings_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/jump_to_browser.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/layout_jump_browser.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/layout_search_bar.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/local_shortcut_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/ms_appcompat_action_bar.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/layout/setting_musk_page.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/BrowserBranch/src/main/res/xml/launcher_settings.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/Commercial/src/main/res/layout/all_apps_search_result_divider.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_lds_search_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/app/res/layout/delete_app_list_item.xml" value="SPLIT" />
+    <property name="SettingsSearchHistory" value="update&#10;keymap&#10;logcat&#10;fon&#10;live" />
     <property name="Source Code Editor With PreviewLayout" value="Editor only" />
-    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.58146966" />
-    <property name="UITheme.relaunch" value="true" />
-    <property name="Vcs.Log.Text.Filter.History" value="branch&#10;翻译&#10;android&#10;androidx&#10;lds" />
-    <property name="android.apk.viewer" value="0.5822368" />
-    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7583922-7b3d00d40ea5dd7da276c3e28a9d6e657006264b2d79746672c5c9df689c66a0" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.5520231" />
+    <property name="appcds.runOnSecondStart" value="AI-211.7628.21.2111.8139111-ddf9958f13d3672e7df15a5bc285b161285f86cbee3f743c84c58e3511da2bef" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="cn.yiiguxing.plugin.translate.version" value="3.1-201" />
-    <property name="com.developerphil.adbidea.previousversion" value="1.6.2" />
-    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
-    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
-    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
-    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="debugger.smart.chooser.counter" value="1" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="defaultJdkConfigured" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Git/R8/r8/src/main/java/com/android/tools/r8/retrace&#10;/Users/liguoying/Mi_Repo/FileExplorerGlobal/miapm-map-gradle-plugin&#10;/Users/liguoying/Git/AndroidStudy-master/app/src/main/java/com/google/firebase/crashlytics&#10;/Users/liguoying/Mi_Repo/FileExplorerGlobal/app" />
-    <property name="file.gist.reindex.count" value="96705" />
-    <property name="fileTypeChangedCounter" value="8" />
-    <property name="find.popup.splitter" value="0.15594855" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/MiRepos/layout&#10;/home/gy/MiRepos/MiuiHome&#10;/home/gy/GitRepos/LargeImageMonitor&#10;/home/gy/MiRepos/MiuiBrowserGlobal&#10;/home/gy/GitRepos" />
+    <property name="file.gist.reindex.count" value="4244" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
+    <property name="got.it.tooltip.LayoutInspector.RotateViewTooltip" value="3" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
-    <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7583922" />
-    <property name="installed.kotlin.plugin.version" value="203-1.5.20-release-289-AS7717.8" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.updates.previous.build.number" value="AI-211.7628.21.2111.8139111" />
+    <property name="installed.kotlin.plugin.version" value="211-1.5.30-release-408-AS7442.40" />
     <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
-    <property name="kotlin.lastUpdateCheck" value="1627539841636" />
-    <property name="kotlin.plugin.releaseDate" value="203-1.5.20-release-289-AS7717.8:2021-06-24" />
-    <property name="lastSeenTip" value="InjectSQLLanguage.html" />
-    <property name="lastTimeTipsWereShown" value="1610697719166" />
-    <property name="live.layout.inspector.capturing" value="false" />
-    <property name="muted.system.shortcut.conflicts.actions" value="CommentByBlockComment&#10;GotoAction" />
-    <property name="new.jvm.backend.notification" value="true" />
-    <property name="newly.installed.api.level" value="31" />
-    <property name="rainbow.selected.color.option.name" value="Square Brackets" />
-    <property name="seenTips" value="TagNameCompletion.html,Kotlin_project.html,InjectSQLLanguage.html" />
-    <property name="selected.color.option.type" value="DIFF_MODIFIED" />
-    <property name="settings.code.style.selected.tab.kotlin" value="Load/Save" />
-    <property name="studio.profilerSESSION_EXPANDED_WIDTH" value="200" />
+    <property name="kotlin.lastUpdateCheck" value="1647843607469" />
+    <property name="kotlin.plugin.releaseDate" value="211-1.5.30-release-408-AS7442.40:2021-08-24" />
+    <property name="lastSeenTip" value="Kotlin_Java_convert.html" />
+    <property name="lastTimeTipsWereShown" value="1647324826989" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GitRepos" />
+    <property name="seenTips" value="InjectSQLLanguage.html,Kotlin_mix.html,Kotlin.html,Kotlin_Java_convert.html" />
+    <property name="selected.color.option.type" value="LOGCAT_ASSERT_OUTPUT" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
-    <property name="vcs.branch.view.splitter.proportion" value="0.10669253" />
-    <property name="vcs.history.diff.splitter.proportion" value="0.5005325" />
-    <property name="vcs.log.changes.splitter.proportion" value="0.57748187" />
-    <property name="vcs.log.details.splitter.proportion" value="0.64664805" />
+    <property name="vcs.branch.view.splitter.proportion" value="0.31351352" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6347981" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="MiuiHome-history1" project-path="$USER_HOME$/MiRepos/MiuiHome" last-access-time="1647920032504" />
+      <command-history-file filename="MiuiBrowserGlobal-history1" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1647913844693" />
+      <command-history-file filename="MiuiBrowserGlobal-history" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1647916012263" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_TOOLBAR_WITH_NAVBAR_SEPARATE" />
   </component>
 </application>

@@ -20,6 +20,8 @@
         <option value="abseil-time-comparison" />
         <option value="abseil-time-subtraction" />
         <option value="abseil-upgrade-duration-conversions" />
+        <option value="altera-kernel-name-restriction" />
+        <option value="altera-single-work-item-barrier" />
         <option value="altera-struct-pack-align" />
         <option value="android-cloexec-accept" />
         <option value="android-cloexec-accept4" />
@@ -68,6 +70,7 @@
         <option value="bugprone-posix-return" />
         <option value="bugprone-redundant-branch-condition" />
         <option value="bugprone-reserved-identifier" />
+        <option value="bugprone-signal-handler" />
         <option value="bugprone-signed-char-misuse" />
         <option value="bugprone-sizeof-container" />
         <option value="bugprone-sizeof-expression" />
@@ -122,6 +125,7 @@
         <option value="cert-oop57-cpp" />
         <option value="cert-oop58-cpp" />
         <option value="cert-pos44-c" />
+        <option value="cert-sig30-c" />
         <option value="cert-str34-c" />
         <option value="clang-analyzer-apiModeling.StdCLibraryFunctions" />
         <option value="clang-analyzer-apiModeling.TrustNonnull" />
@@ -234,6 +238,7 @@
         <option value="clang-analyzer-webkit.NoUncountedMemberChecker" />
         <option value="clang-analyzer-webkit.RefCntblBaseVirtualDtor" />
         <option value="clang-analyzer-webkit.UncountedLambdaCapturesChecker" />
+        <option value="concurrency-mt-unsafe" />
         <option value="cppcoreguidelines-avoid-c-arrays" />
         <option value="cppcoreguidelines-avoid-goto" />
         <option value="cppcoreguidelines-avoid-magic-numbers" />
@@ -396,6 +401,7 @@
         <option value="performance-move-const-arg" />
         <option value="performance-move-constructor-init" />
         <option value="performance-no-automatic-move" />
+        <option value="performance-no-int-to-ptr" />
         <option value="performance-noexcept-move-constructor" />
         <option value="performance-trivially-destructible" />
         <option value="performance-type-promotion-in-math-fn" />
@@ -444,6 +450,6 @@
         <option value="zircon-temporary-objects" />
       </set>
     </option>
-    <option name="previousClangTidyVersion" value="12.0.0" />
+    <option name="previousClangTidyVersion" value="13.0.0" />
   </component>
 </application>

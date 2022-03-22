@@ -2,606 +2,67 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Mi_Repo/Browser2">
+        <entry key="$USER_HOME$/GitRepos/myapplication">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1qbxf7lHilJwummWVNCaWjN35TO">
+            <RecentProjectMetaInfo frameTitle="My Application – MainActivity.kt [My_Application.app]" projectWorkspaceId="26E4UUbnu8pXbLjqgEYq7O2VgqC">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417370358" />
-              <frame x="-1920" y="-180" width="1920" height="1080" extendedState="6" fullScreen="true" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747017239" />
+              <frame x="260" y="21" width="1400" height="1000" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1617362190758" />
+              <option name="projectOpenTimestamp" value="1646975428126" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Git/leakcanary">
+        <entry key="$USER_HOME$/GitRepos/LargeImageMonitor">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1osQkvzHOoPplYSAomzlAEjj4Oq">
+            <RecentProjectMetaInfo frameTitle="ImageMonitor – LargeImageManager.java [ImageMonitor.largeimage]" projectWorkspaceId="26VHjVHsGsk5fo7qR5YR5TZT8sr">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417330655" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643746991967" />
+              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618046246277" />
+              <option name="projectOpenTimestamp" value="1647501969069" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Git/tailor">
+        <entry key="$USER_HOME$/MiRepos/MiuiHome">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1oxoNx1W5gP1vM1cRgrHtitmMVF">
+            <RecentProjectMetaInfo frameTitle="MiuiHome – Application.java [MiuiHome.app]" opened="true" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417330655" />
-              <frame x="0" y="0" width="1440" height="900" extendedState="6" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747002995" />
+              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618046303703" />
+              <option name="projectOpenTimestamp" value="1647916091004" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Git/performance">
+        <entry key="$USER_HOME$/MiRepos/MiuiBrowserGlobal">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1qyKJwR2r9QJOfiD6JPROdwSgp0">
+            <RecentProjectMetaInfo frameTitle="MiuiBrowserGlobal – LauncherActivity.java [MiuiBrowserGlobal.Browser]" projectWorkspaceId="26ELnVY2CFhjawnFPUBJQeB4ocy">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417330655" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747002995" />
+              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618046348567" />
+              <option name="projectOpenTimestamp" value="1647916080001" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Git/rabbit-client">
+        <entry key="$USER_HOME$/MiRepos/layout">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1qyKN8gVTosFVFf5Z1EIZv3Elt4">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="26ip5givIZTOLEcPF9GfOPzIxx2">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417347008" />
-              <frame x="0" y="205" width="1440" height="875" extendedState="6" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643746990288" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618203232388" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/matrix/samples/sample-android">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1nJzeiAIuCpK4iO5QGu4pilo88J">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417352763" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1618469932754" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/mi.apm">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rTnV5DvIhwwDp6aaR1v4nMf3VD">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417340172" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1619008967326" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiTransfer">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1mucoT64kF1d3A7PaiaxPq9lrgS">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417377044" />
-              <frame x="0" y="205" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1619592536204" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/Bugly-Android-Demo/BuglySDKDemo">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1s95GV40c6S5neu3anReZIn27JP">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-201.8743.12.41.7199119" />
-              <option name="buildTimestamp" value="1615417377044" />
-              <frame x="-1920" y="-180" width="1920" height="1080" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1620309431336" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/CustomGradlePlugin">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1sIn8IYAuM5bgidiovyslKovPGm">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7322048" />
-              <option name="buildTimestamp" value="1619659107814" />
-              <frame x="-1920" y="-180" width="952" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1620627125957" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/android-gradle-plugin-master">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1sLNCyFZN00uKLvbXOpS6KfS4f1">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7322048" />
-              <option name="buildTimestamp" value="1619659138738" />
-              <frame x="-1920" y="-180" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1620715250364" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/firebase-android-sdk">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1s9Sw0n8S6ZWgfV9QpQHeKAnTm9">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7322048" />
-              <option name="buildTimestamp" value="1619659136945" />
-              <frame x="-1920" y="-180" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1621319643559" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/firebase-android-sdk/firebase-crashlytics">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1sCrs3CUMkiAAfU0IOKQIiQLKDH">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7322048" />
-              <option name="buildTimestamp" value="1619659139768" />
-              <frame x="-1920" y="-180" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1621413010944" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/JiaguPlugin">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rmsKguClboWpIjsAt17am4CCvD">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668681282" />
-              <frame x="-1920" y="-180" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1621581915342" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/AndroidStudy-master">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1q5t3JBcg3EZObKsDUlE1lPpcsv">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668670759" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1621783457528" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/bugsnag-android-gradle-plugin">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1sKIJLLz6s5DmkaJiJ4J70alECI">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668651787" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622020732321" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/R8/r8">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1t14yvhqabPl0TeE9SnMWo8DXbO">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668651787" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622028932797" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/AndroidPerformanceMonitor">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rhlXLuyDaoJTmaQgmIbhsiD8j5">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668651787" />
-              <frame x="0" y="25" width="1440" height="875" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622168706670" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/DailySample">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1t95x0c4aMsc60IXqvb7P7Fov7F">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668651787" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622173537035" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/proguard-master">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1t0uqGhM2xcfe9tjESbQvnqfRiN">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668651787" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622389533305" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/mi.apm/MiAPM">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rTni6c8d2YzwsF8QNOpMKZsvtr">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668645790" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622452543726" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/MyApplication3">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1syXm748HkDSO9NXEIAAFOYeaM9">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668660436" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622554917778" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/MyApplication6">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1t3xxzxg0dZH0nSja1Ip4KFkayZ">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668670256" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622776411282" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/matrix">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rCALVpQx1RySjv3IiIHrVJ1XOm">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668670256" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1622796959120" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/MyApplication7">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1tbzhBGs04OVCuEoLuTgk9M50jg">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668640478" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623065439942" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/AsmDemo">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1tc04bUb3rwwnr5pKkNhZHzbUoK">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668640478" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623121047896" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/matrix/matrix/matrix-android">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1rCB0wspvuNPhJgNzG0JlJaEnQt">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668640478" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623289582818" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiDropGlobal">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1qsaum5PLG9bXBvrZzgb5CvvxW9">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668665022" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623916673366" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/matrix">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1tkMlkCdvJWMfz6thXFqKUHOImk">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668665022" />
-              <frame x="320" y="25" width="1920" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623916904872" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/GradleSourceCode">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1pvM5JN8ld6XNK3huXNvGtOgxsD">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668666926" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623980165741" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/gradle_jump_java_code">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1pvOyttg9qFOuafwaqPtmRyzUtZ">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668666926" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1623987470343" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/new_mi_apm/mi.apm/MiAPM">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1tI8GUJz3NCLi0jWinoPMW7CFeY">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668666926" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1624239900389" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/mi.apm_project/MiAPM">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1tI8GUJz3NCLi0jWinoPMW7CFeY">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668666926" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1624013314946" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiuiBrowserGlobal">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1ubRbGUE4eZeuXgkZQGKc4bvDaG">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7351085" />
-              <option name="buildTimestamp" value="1620668650797" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1624971786264" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/sunflower">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1sZuDXV39BZXGRyxrdBRPygd7b6">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491062211" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1625709527550" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/newMiuiHome/MiuiHome">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1v4aYCnPGmECfLAyeywIhVtEZcu">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491083987" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1625828498851" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/TestBranch">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1vHn8L1TC1eH8Pn3S7PDqKIU7gq">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491108757" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1626251606134" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/TestBranch2">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1vIZXu12H0Az84gCkKE5yuScf3k">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491071721" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1626269601120" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/NinePatch-master">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1vJA0f07Tjd0QfbN6RUSAsvpss0">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491060573" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1626269827008" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/HenCoderPlus">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1mjerBAszDsyA7qGOpBlRmeHHWt">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491118779" />
-              <frame x="18" y="25" width="1422" height="875" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1626781075986" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/FileExplorerGlobal">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1m18YQ6OJCqgp13tw50pLnXKbWT">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491089249" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627263408159" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/HenCoderPlus/CustomView_01">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1vWNU2WLl8VRx3c79lZQh3GmH5Q">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491086125" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627273517504" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/TestApp">
-          <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1vppu5krCECnhepWsXzUhxrjcGY">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-202.7660.26.42.7486908" />
-              <option name="buildTimestamp" value="1624491111653" />
-              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627522529953" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/decouple_res">
-          <value>
-            <RecentProjectMetaInfo frameTitle="decouple_res" projectWorkspaceId="1vz1pzVqRAJ9v6rCIeeIeBNeXAV">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329546312" />
-              <frame x="-1920" y="-125" width="1920" height="1080" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627551340940" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiuiHome_new">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome_new" projectWorkspaceId="1u73b5eIuRbhXwt6RcN1ez7MNfB">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329571930" />
-              <frame x="-1920" y="-100" width="1920" height="1055" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627872460324" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/new_MiuiHome/MiuiHome">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome [~/Mi_Repo/new_MiuiHome/MiuiHome]" projectWorkspaceId="1w9ZlPLwyzxUgcjNbOo5xsbGZf5">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329571930" />
-              <frame x="-1920" y="-100" width="1920" height="1055" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1627872981132" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiuiHome">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome – ~/Library/Application Support/Google/AndroidStudio2020.3/studio.vmoptions" opened="true" projectWorkspaceId="1u73b5eIuRbhXwt6RcN1ez7MNfB">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329563270" />
-              <frame x="-1920" y="-125" width="1920" height="1080" extendedState="6" fullScreen="true" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1628167119565" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/RecyclerViewSourceCode">
-          <value>
-            <RecentProjectMetaInfo frameTitle="RecyclerViewTest – RecyclerView.java [RecyclerViewTest.app]" projectWorkspaceId="1wIRDKq1ng46hIlVkKpRAzaTyWn">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329563270" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1628160462372" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Git/HencodePlusFIve">
-          <value>
-            <RecentProjectMetaInfo frameTitle="HencodePlusFIve – AllThingShop.java [HencodePlusFIve.app]" projectWorkspaceId="1wIyamnyzKG72M6SqUFxwOJYih8">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329563270" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1628167114435" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Mi_Repo/MiuiHomeGlobal">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHomeGlobal – CommercialInit.java [MiuiHomeGlobal.Commercial]" opened="true" projectWorkspaceId="1u6X70VKsWygkYGNzk46QJOcTxx">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-203.7717.56.2031.7583922" />
-              <option name="buildTimestamp" value="1627329563270" />
-              <frame x="0" y="25" width="1440" height="875" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1628167119565" />
+              <option name="projectOpenTimestamp" value="1647916091004" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/Git" />
+    <option name="lastProjectLocation" value="$USER_HOME$/GitRepos" />
   </component>
 </application>
