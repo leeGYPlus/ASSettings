@@ -1,0 +1,197 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/SettingsActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state />
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/By.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="24">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/Delegate.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="432">
+                <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/70f4e47092d0158a39aafc634ad60b6320c3d6ce/kotlin-stdlib-1.5.31-sources.jar!/kotlin/util/LazyJVM.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="1752">
+                <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/demotest/By.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/Delegate.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32955664" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="clangd" order="9" />
+      <window_info anchor="bottom" id="Logcat" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="13" />
+      <window_info anchor="bottom" id="Logcat V2" order="14" />
+      <window_info anchor="bottom" id="Layout Inspector" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="App Inspection" order="16" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Android Emulator" order="2" side_tool="true" />
+      <window_info anchor="right" id="Device Manager" order="3" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Kotlin Bytecode</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="748" y="241" width="417" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1647949698197">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="748" y="241" width="417" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647949698197" />
+    <state x="738" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1647949636782">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="738" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647949636782" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/SettingsActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/By.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="24">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/70f4e47092d0158a39aafc634ad60b6320c3d6ce/kotlin-stdlib-1.5.31-sources.jar!/kotlin/util/LazyJVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1752">
+            <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/Delegate.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="432">
+            <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

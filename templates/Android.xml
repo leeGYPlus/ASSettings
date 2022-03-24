@@ -1,0 +1,8 @@
+<templateSet group="Android">
+  <template name="rt" value="  public static void logRuntime() {&#10;    try {&#10;      throw new RuntimeException();&#10;    } catch (RuntimeException e) {&#10;      Log.e(&quot;$className$&quot;, &quot;logRuntime: &quot; + e.getMessage());&#10;      e.printStackTrace();&#10;    }&#10;  }" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="groovyScript(&quot;_1.take(Math.min(23, _1.length()));&quot;, className())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
