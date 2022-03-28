@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8028b93a0420" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-25T03:44:28.659628Z" />
+        <name value="Xiaomi M2010J19SI" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

@@ -37,6 +37,11 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="26pILpVKTk21P8lQJe6KOTdeg5o">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
@@ -118,9 +123,10 @@
     <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="FindSplitterProportion" value="0.46530613" />
-    <property name="KEYMAP" value="line&#10;end&#10;back&#10;forwar&#10;occur" />
+    <property name="KEYMAP" value="adb&#10;alt&#10;line&#10;end&#10;back" />
     <property name="LOG_FILTER_HISTORY" value="CommercialPreference&#10;LGY&#10;onResume&#10;BranchRequestManager" />
     <property name="LOG_FILTER_PACKAGE_NAME_HISTORY" value="io.branch.search.test" />
+    <property name="MarketplacePluginsSearchHistory" value="adb" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="NlScreenModeProvider" value="RENDER" />
@@ -128,6 +134,8 @@
     <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
     <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
     <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/Branch/Commercial/src/main/res/layout/all_apps_indicator.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/Branch/Commercial/src/main/res/layout/poco_all_apps_search_guide.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/Browser/res/layout/browser_tab_info_container_layout.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/Browser/res/xml/incognito_preference_fragment.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiBrowserGlobal/Browser/res/xml/main_preference_fragment.xml" value="SPLIT" />
@@ -155,6 +163,7 @@
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/Commercial/src/main/res/layout/all_apps_search_result_divider.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/Commercial/src/main/res/layout/all_apps_uni_lds_search_item.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHome/app/res/layout/delete_app_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_search_guide.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_search_result_hint.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_search_result_mask.xml" value="SPLIT" />
     <property name="SPLIT_EDITOR_MODE_/home/gy/MiRepos/MiuiHomeGlobal/Commercial/src/main/res/layout/all_apps_uni_auto_suggest.xml" value="SPLIT" />
@@ -169,14 +178,19 @@
     <property name="SettingsSearchHistory" value="live&#10;update&#10;keymap&#10;logcat&#10;fon" />
     <property name="Source Code Editor With PreviewLayout" value="Editor only" />
     <property name="TextEditorWithPreview.SplitterProportionKey" value="0.5520231" />
-    <property name="appcds.runOnSecondStart" value="AI-211.7628.21.2111.8139111-ddf9958f13d3672e7df15a5bc285b161285f86cbee3f743c84c58e3511da2bef" />
+    <property name="appcds.runOnSecondStart" value="AI-211.7628.21.2111.8139111-3cc5ecf5a00e317cb5f769fab572419d0f566e82968f0bf6749c7d2ebc389ff4" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.developerphil.adbidea.previousversion" value="1.6.4" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
     <property name="debugger.smart.chooser.counter" value="1" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/MiRepos/MiuiHomeGlobal&#10;/home/gy/MiRepos/layout&#10;/home/gy/MiRepos/MiuiHome&#10;/home/gy/GitRepos/LargeImageMonitor&#10;/home/gy/MiRepos/MiuiBrowserGlobal&#10;/home/gy/GitRepos" />
-    <property name="file.gist.reindex.count" value="5818" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/MiRepos/Branch&#10;/home/gy/MiRepos/MiuiHomeGlobal&#10;/home/gy/MiRepos/layout&#10;/home/gy/MiRepos/MiuiHome&#10;/home/gy/GitRepos/LargeImageMonitor&#10;/home/gy/MiRepos/MiuiBrowserGlobal&#10;/home/gy/GitRepos" />
+    <property name="file.gist.reindex.count" value="12864" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
     <property name="got.it.tooltip.LayoutInspector.RotateViewTooltip" value="3" />
@@ -187,10 +201,10 @@
     <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
     <property name="kotlin.lastUpdateCheck" value="1647942246040" />
     <property name="kotlin.plugin.releaseDate" value="211-1.5.30-release-408-AS7442.40:2021-08-24" />
-    <property name="lastSeenTip" value="Kotlin_Java_convert.html" />
-    <property name="lastTimeTipsWereShown" value="1647324826989" />
+    <property name="lastSeenTip" value="InjectSQLLanguage.html" />
+    <property name="lastTimeTipsWereShown" value="1648438716882" />
     <property name="last_opened_file_path" value="$USER_HOME$/GitRepos" />
-    <property name="seenTips" value="InjectSQLLanguage.html,Kotlin_mix.html,Kotlin.html,Kotlin_Java_convert.html" />
+    <property name="seenTips" value="Kotlin_Java_convert.html,Kotlin.html,Kotlin_mix.html,InjectSQLLanguage.html" />
     <property name="selected.color.option.type" value="LOGCAT_ASSERT_OUTPUT" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="vcs.branch.view.splitter.proportion" value="0.31351352" />
@@ -198,10 +212,11 @@
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="MiuiHome-history1" project-path="$USER_HOME$/MiRepos/MiuiHome" last-access-time="1647920032504" />
-      <command-history-file filename="MiuiHomeGlobal-history1" project-path="$USER_HOME$/MiRepos/MiuiHomeGlobal" last-access-time="1648022465446" />
-      <command-history-file filename="MiuiBrowserGlobal-history1" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1648015905516" />
-      <command-history-file filename="MiuiBrowserGlobal-history" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1648015905517" />
+      <command-history-file filename="Branch-history1" project-path="$USER_HOME$/MiRepos/Branch" last-access-time="1648436170926" />
+      <command-history-file filename="MiuiHome-history" project-path="$USER_HOME$/MiRepos/MiuiHome" last-access-time="1648193681026" />
+      <command-history-file filename="MiuiHomeGlobal-history1" project-path="$USER_HOME$/MiRepos/MiuiHomeGlobal" last-access-time="1648111214831" />
+      <command-history-file filename="MiuiBrowserGlobal-history1" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1648173174469" />
+      <command-history-file filename="MiuiBrowserGlobal-history" project-path="$USER_HOME$/MiRepos/MiuiBrowserGlobal" last-access-time="1648173174476" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
