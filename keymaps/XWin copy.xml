@@ -1,6 +1,6 @@
 <keymap version="1" name="XWin copy" parent="Default for XWin">
   <action id="Android.RunLayoutInspector">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl context_menu" />
@@ -27,11 +27,22 @@
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="ShowRecentTests" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="android.deploy.ApplyChanges">
