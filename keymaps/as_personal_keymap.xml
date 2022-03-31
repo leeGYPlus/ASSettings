@@ -1,6 +1,27 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
+<keymap version="1" name="as_personal_keymap" parent="Default for XWin">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="Android.RunLayoutInspector">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl context_menu" />
@@ -11,8 +32,15 @@
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
@@ -37,8 +65,16 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="HippieCompletion" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="SelectAllOccurrences" />
   <action id="ShowRecentTests" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt a" />
@@ -53,5 +89,8 @@
   </action>
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
 </keymap>

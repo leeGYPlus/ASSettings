@@ -38,18 +38,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/MiRepos/MiuiHome">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome – PocoBranchSearchGuideDialogUtil.java [MiuiHome.Commercial]" opened="true" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643746997414" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648518636054" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/MiRepos/MiuiBrowserGlobal">
           <value>
             <RecentProjectMetaInfo frameTitle="MiuiBrowserGlobal – SystemUtil.java [MiuiBrowserGlobal.BrowserBranch]" projectWorkspaceId="26ELnVY2CFhjawnFPUBJQeB4ocy">
@@ -62,39 +50,63 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/MiRepos/Branch">
+        <entry key="$USER_HOME$/GitRepos/DemoTest">
           <value>
-            <RecentProjectMetaInfo frameTitle="Branch – PocoBranchSearchGuideDialogUtil.java [Branch.Commercial]" opened="true" projectWorkspaceId="26pILpVKTk21P8lQJe6KOTdeg5o">
+            <RecentProjectMetaInfo frameTitle="DemoTest – GeneralDialog.java [DemoTest.app]" projectWorkspaceId="26jg7Y7jWC0d1JYtR7PwkDF7OR6">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747037487" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
+              <option name="buildTimestamp" value="1643747017698" />
+              <frame x="1982" y="25" width="1914" height="1043" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648518636054" />
+              <option name="projectOpenTimestamp" value="1648522939150" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MiRepos/MiuiHome_bk">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MiuiHome_bk – ~/Android/Sdk/sources/android-30/android/graphics/Canvas.java" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747020440" />
+              <frame x="1846" y="98" width="1908" height="1043" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1648620385761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MiRepos/Branch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Branch – CommercialInit.java [Branch.Commercial]" projectWorkspaceId="26pILpVKTk21P8lQJe6KOTdeg5o">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747014242" />
+              <frame x="1918" y="0" width="1924" height="1045" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1648623099771" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/MiRepos/MiuiHomeGlobal">
           <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHomeGlobal – BranchSearchGuideDialogUtil.java [MiuiHomeGlobal.Commercial]" opened="true" projectWorkspaceId="26mDoAaqp9Cz1d1Zmmw6CtWGybp">
+            <RecentProjectMetaInfo frameTitle="MiuiHomeGlobal – Launcher.java [MiuiHomeGlobal.PocoLauncher]" opened="true" projectWorkspaceId="26mDoAaqp9Cz1d1Zmmw6CtWGybp">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643746992130" />
-              <frame x="-39" y="55" width="1914" height="1045" extendedState="6" />
+              <option name="buildTimestamp" value="1643747014242" />
+              <frame x="0" y="88" width="1914" height="1043" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648518636054" />
+              <option name="projectOpenTimestamp" value="1648692957484" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/GitRepos/DemoTest">
+        <entry key="$USER_HOME$/MiRepos/MiuiHome">
           <value>
-            <RecentProjectMetaInfo frameTitle="DemoTest – Delegate.kt [DemoTest.app]" opened="true" projectWorkspaceId="26jg7Y7jWC0d1JYtR7PwkDF7OR6">
+            <RecentProjectMetaInfo frameTitle="MiuiHome – AllAppsTransitionController.java [MiuiHome.app]" opened="true" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747017698" />
+              <option name="buildTimestamp" value="1643747014242" />
               <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648518636054" />
+              <option name="projectOpenTimestamp" value="1648692957484" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

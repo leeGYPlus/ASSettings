@@ -19,12 +19,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/poco/PocoBranchSearchGuideDialogUtil.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view/BranchSearchGuide.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="200">
+                <caret line="106" column="52" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="52" />
+              </editor-state>
+              <multi-preview-state selected="Custom views">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branchInterface/IHomeKeyWatcher.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="843">
-                <caret line="105" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
+              <editor-state relative-caret-position="1272">
+                <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -39,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view/GeneralDialog.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="144">
-                <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <editor-state relative-caret-position="1968">
+                <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -52,11 +68,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-31/android/view/WindowManager.java">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager/BranchGuildController.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="36120">
-                <caret line="1634" column="68" selection-start-line="1634" selection-start-column="68" selection-end-line="1634" selection-end-column="68" />
+              <editor-state relative-caret-position="1656">
+                <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -67,20 +83,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Commercial/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1896">
-              <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Android/Sdk/platforms/android-31/data/res/values/themes.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17280">
-              <caret line="720" column="16" selection-start-line="720" selection-start-column="16" selection-end-line="720" selection-end-column="16" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager/CommercialInit.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="312">
+                <caret line="36" column="37" selection-start-line="28" selection-start-column="72" selection-end-line="48" selection-end-column="70" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
             </state>
           </provider>
         </entry>
@@ -159,11 +173,22 @@
       <find>autosuggest</find>
       <find>updateStatusBar</find>
       <find>TRANSLUCENT</find>
+      <find>CommercialCloseAllOverLauncherWindowMessage</find>
+      <find>onMessageEvent(CommercialCloseAllOverLauncher</find>
+      <find>CloseAllOverLauncherWindowMessage</find>
+      <find>onMessageEvent(CommercialCloseAllOverLau</find>
+      <find>onMessageEvent(CommercialCloseAllOve</find>
+      <find>branchGuideViewClickListener</find>
+      <find>homeWatcherReceiver</find>
+      <find>dialogCallBack</find>
+      <find>showBranchSearchGuideView</find>
+      <find>initBranchOnScrollUpEnd</find>
     </findStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager</dir>
       <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branchInterface</dir>
       <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/poco</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view</dir>
+      <dir>$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -182,8 +207,58 @@
     </option>
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" />
-    <panes />
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Branch" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Commercial" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
@@ -202,12 +277,12 @@
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2486979" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50128865" visible="true" weight="0.2486979" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Commit" order="3" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
       <window_info id="Pull Requests" order="4" />
-      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Build Variants" order="5" sideWeight="0.49871135" side_tool="true" visible="true" weight="0.2486979" />
       <window_info id="Resources Explorer" order="6" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32955664" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -217,7 +292,7 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32955664" />
       <window_info anchor="bottom" id="Problems View" order="6" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5049261" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5049261" />
       <window_info anchor="bottom" id="clangd" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32955664" />
       <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
@@ -235,9 +310,10 @@
     <recentWindows>
       <value>Terminal</value>
       <value>Version Control</value>
+      <value>Build Variants</value>
+      <value>Project</value>
       <value>Commit</value>
       <value>Logcat</value>
-      <value>Project</value>
       <value>Build</value>
       <value>TODO</value>
     </recentWindows>
@@ -268,10 +344,11 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="696" y="393" width="522" height="258" key="VCS.ChangelistChooser/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648202597317" />
-    <state x="543" y="72" width="603" height="508" key="find.popup" timestamp="1648467982922">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2463" y="75" width="603" height="553" key="find.popup" timestamp="1648544176144">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="543" y="72" width="603" height="508" key="find.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648467982922" />
+    <state x="543" y="72" width="603" height="534" key="find.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648541867437" />
+    <state x="2463" y="75" width="603" height="553" key="find.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648544176144" />
     <state x="623" y="230" width="672" height="685" key="search.everywhere.popup" timestamp="1648175598415">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
@@ -279,8 +356,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Commercial/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -291,12 +368,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/util/JavaReflect.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miui/branch/MainActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
@@ -315,8 +392,8 @@
     <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/poco/PocoBranchSearchGuideDialogUtil.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="843">
-            <caret line="105" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
+          <editor-state relative-caret-position="411">
+            <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -328,20 +405,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="941">
           <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view/GeneralDialog.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="144">
-            <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
         </state>
       </provider>
     </entry>
@@ -370,6 +433,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17280">
           <caret line="720" column="16" selection-start-line="720" selection-start-column="16" selection-end-line="720" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view/BranchSearchGuide.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="200">
+            <caret line="106" column="52" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="52" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branchInterface/IHomeKeyWatcher.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1272">
+            <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/view/GeneralDialog.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1968">
+            <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager/BranchGuildController.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1656">
+            <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
         </state>
       </provider>
     </entry>
@@ -420,6 +539,20 @@
         <state>
           <editor-state relative-caret-position="480">
             <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/manager/CommercialInit.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="312">
+            <caret line="36" column="37" selection-start-line="28" selection-start-column="72" selection-end-line="48" selection-end-column="70" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
