@@ -1,60 +1,16 @@
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_lds_search_item.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_group_title.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_guide.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_recommend.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_auto_suggest.xml">
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/PhoneUi.java">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchDefaultAppSearchAlgorithm.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="70392">
-                <caret line="3154" column="58" selection-start-line="3154" selection-start-column="58" selection-end-line="3154" selection-end-column="59" />
+              <editor-state relative-caret-position="373">
+                <caret line="80" selection-start-line="80" selection-end-line="80" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -66,13 +22,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchActivity.java">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchRequestManager.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="552">
-                <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <editor-state relative-caret-position="205">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </editor-state>
               <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchResultPageView.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="177">
+                <caret line="81" selection-start-line="81" selection-end-line="81" />
+              </editor-state>
+              <multi-preview-state selected="Custom views">
                 <representations>
                   <list />
                 </representations>
@@ -82,11 +54,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/SystemUtil.java">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchPageAdapter.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="528">
-                <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <editor-state relative-caret-position="288">
+                <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="35" selection-end-column="27" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -98,11 +70,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MiuiCommon/src/miui/browser/os/MiuiSdkUtil.java">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchConstant.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="400">
-                <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+              <editor-state relative-caret-position="290">
+                <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -114,11 +86,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MiuiCommon/src/miui/browser/reflect/JavaReflect.java">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_lds_search_item.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/AdapterItem.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="168">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <editor-state relative-caret-position="680">
+                <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchPageAdapter.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="290">
+                <caret line="350" column="76" selection-start-line="350" selection-start-column="76" selection-end-line="350" selection-end-column="76" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/NativeAppsProvider.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="336">
+                <caret line="149" selection-start-line="149" selection-end-line="149" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/provider/LauncherConfigProvider.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="1992">
+                <caret line="137" column="49" selection-start-line="137" selection-start-column="49" selection-end-line="137" selection-end-column="49" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -133,36 +158,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>b_enter_local_search</find>
-      <find>home_page</find>
-      <find>onResume</find>
-      <find>searchBarController</find>
-      <find>mTagList</find>
-      <find>oncli</find>
-      <find>searchResultMaskView</find>
-      <find>SearchResultMaskView</find>
-      <find>mask_list_view</find>
-      <find>mGuideGif</find>
-      <find>hideKey</find>
-      <find>isBranchEntrance</find>
-      <find>setAdapter</find>
-      <find>super.onLayoutChildren(recycler, state);</find>
-      <find>validateViewHolderForOffsetPosition</find>
-      <find>descendantFocusability</find>
-      <find>RecyclerView</find>
-      <find>super.onLayoutChildren(recycler, state)</find>
-      <find>IndexOutOfBoundsException exception</find>
-      <find>IndexOutOfBoundsException</find>
-      <find>play-service</find>
-      <find>rg_suggest_group</find>
-      <find>tagGroup</find>
-      <find>country</find>
-      <find>ro.miui.region</find>
-      <find>TabPagerInfoBarUrlStyle</find>
-      <find>setStat</find>
       <find>CLEAREXTRAFLAGS</find>
       <find>ADDEXTRAFLAGS</find>
       <find>EXTRA_FLAG_STATUS_BAR_DARK_MODE</find>
+      <find>Branch</find>
+      <find>branchSearchPageAdapter</find>
+      <find>mInputMethodManager</find>
+      <find>VIEW_TYPE_AUTO_SUGGEST</find>
+      <find>onZeroStateComplete</find>
+      <find>findViewById</find>
+      <find>onFinishInflate</find>
+      <find>mMatchApps</find>
+      <find>mTagClickListener</find>
+      <find>iv_app_icon</find>
+      <find>appTitleContainer</find>
+      <find>suggestionApps</find>
+      <find>getItemViewType</find>
+      <find>setInterruptActiveRequests</find>
+      <find>reStarThisActivity</find>
+      <find>launcherA</find>
+      <find>activity_no_branch</find>
+      <find>R.id</find>
+      <find>no_branch_search_result_mask</find>
+      <find>getInput()</find>
+      <find>layout_search_bar_id</find>
+      <find>NoBranch</find>
+      <find>searchBarDrawerLayout</find>
+      <find>getLayoutInflater</find>
+      <find>NoBranchActivity</find>
+      <find>branch</find>
+      <find>VIEW_TYPE_NO_BRANCH_SEARCH</find>
     </findStrings>
     <replaceStrings>
       <replace>context</replace>
@@ -179,71 +204,73 @@
       <dir>$PROJECT_DIR$/Browser/src/com/android/browser/webapps/app</dir>
       <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/view</dir>
       <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/sdk</dir>
-      <dir>$PROJECT_DIR$/Browser/src/com/android/browser</dir>
       <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils</dir>
-      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage</dir>
-      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch</dir>
-      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar</dir>
-      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage</dir>
       <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/privacy</dir>
       <dir>$PROJECT_DIR$/Browser/src/com/android/browser/util</dir>
       <dir>$PROJECT_DIR$/Browser/res/values</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage</dir>
+      <dir>$PROJECT_DIR$/Browser/src/com/android/browser</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar</dir>
       <dir>$PROJECT_DIR$/BrowserBranch/src/main/res/layout</dir>
+      <dir>$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/values/colors.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/values/styles.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/AndroidManifest.xml" />
-      <option value="$PROJECT_DIR$/Browser/src/com/android/browser/BrowserSettingsActivity.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/values/dimens.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/JumpToBrowserView.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/NativeAppsProvider.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchSearchGuide.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/view/CircleImageView2.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/view/CircleImageView.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/setting_musk_page.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/values/attrs.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/Utils.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/NiceImageView.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/drawable/round_white_circle.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/RoundTransform.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchLinearAndGridAdapter.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/build.gradle" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/ExtendedEditText.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/BranchImageLoader.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/RecommendAppsGridAdapter.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/SystemUtil.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/setting/HomeSettingsActivity.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_recommend_item.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_zero_state_item.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_lds_search_item.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/local_shortcut_layout.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/jump_to_browser.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_lds_item.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_linear.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/DefaultAppSearchAlgorithm.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskAdapter.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchConstant.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchActivity.java" />
-      <option value="$PROJECT_DIR$/MiuiBusiness/src/main/java/miui/browser/common_business/report/ReportConstants.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/sdk/BranchRequestManager.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchLocalHintCallback.java" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_result_hint.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchContainer.java" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_guide.xml" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/layout_search_bar.xml" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/privacy/PrivacyActivity.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/SearchBarController.java" />
-      <option value="$PROJECT_DIR$/Browser/src/com/android/browser/LauncherActivity.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskView.java" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_result_page.xml" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchResultPage.java" />
-      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchPageAdapter.java" />
       <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/WrapContentLinearLayoutManager.java" />
       <option value="$PROJECT_DIR$/Browser/build.gradle" />
       <option value="$PROJECT_DIR$/Browser/src/com/android/browser/privacy/PrivacyAgreement.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/build.gradle" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchResultPage.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchAutoSuggestCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchContainer.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/SearchBar.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/SearchBarController.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchZeroStateCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchCompositeSearchCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/ILocalAppSearchCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/sdk/BranchRequestManager.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchLinearAndGridAdapter.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchLocalQueryHintCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskView.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskAdapter.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/BranchContainer.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_barnch_mask.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/LocalSearchCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/ILocalSearchCallBack.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchPageAdapter.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/LocalSearchResultPageView.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchAlgorithm.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchBarController.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/DefaultAppSearchAlgorithm.java" />
+      <option value="$PROJECT_DIR$/Browser/src/com/android/browser/provider/NativeAppsProvider.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchConstant.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_search_result_item.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/RecommendAppsGridAdapter.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/AdapterItem.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchResultPageView.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchMaskViewAdapter.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchRequestManager.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchActivity.java" />
+      <option value="$PROJECT_DIR$/Browser/src/com/android/browser/LauncherActivity.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchBarCallbacks.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_mask.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_search_result_page.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/res/layout/activity_no_branch.xml" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchMaskView.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchContainer.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchDefaultAppSearchAlgorithm.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/NativeAppsProvider.java" />
+      <option value="$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchPageAdapter.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -254,16 +281,347 @@
     </option>
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1" />
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
+              <item name="record" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Browser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="nobranch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+              <item name="callBack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="zeroPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiBrowserGlobal" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="BrowserBranch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="androidx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="androidx" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="androidx" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: androidx.fragment:fragment:1.3.6@aar" type="70bed36:NamedLibraryElementNode" />
+              <item name="classes.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="androidx" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Fragment" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Browser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="suggestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
               <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
@@ -288,79 +646,180 @@
               <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="callBack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="nobranch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+              <item name="callBack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchBar" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="searchpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+              <item name="zeroPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="BrowserBranch" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="styles" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="browser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="browser" type="462c0819:PsiDirectoryNode" />
-              <item name="os" type="462c0819:PsiDirectoryNode" />
+              <item name="common_business" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
-              <item name="MiuiCommon" type="feadf853:AndroidModuleNode" />
+              <item name="MiuiBusiness" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="miui" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="browser" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="common_business" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiBrowserGlobal" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="/var/local/xminds_package" commandHistoryFileName="MiuiBrowserGlobal-history1" />
-      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/../layout" commandHistoryFileName="MiuiBrowserGlobal-history" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="MiuiBrowserGlobal-history2" />
     </option>
-    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.32965934" side_tool="true" weight="0.32890624" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.67034066" visible="true" weight="0.32734376" />
-      <window_info id="Commit" order="3" weight="0.23828125" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.67034066" visible="true" weight="0.32473958" />
+      <window_info id="Commit" order="3" weight="0.23818277" />
       <window_info id="Pull Requests" order="4" />
       <window_info id="Build Variants" order="5" side_tool="true" />
       <window_info id="Resources Explorer" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5004817" weight="0.4044335" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5004817" weight="0.6477833" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.4995183" side_tool="true" weight="0.39984143" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.42252398" weight="0.3315271" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.330074" />
-      <window_info anchor="bottom" id="TODO" order="4" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.5004817" weight="0.32955664" />
-      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32955664" />
-      <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.5004817" weight="0.3995074" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.29720616" weight="0.3098522" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32955664" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3302073" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.5004817" weight="0.32922015" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32922015" />
+      <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.5004817" weight="0.44876847" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.29720616" visible="true" weight="0.090147786" />
       <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.32955664" />
       <window_info anchor="bottom" id="Logcat V2" order="10" />
       <window_info anchor="bottom" id="Layout Inspector" order="11" sideWeight="0.577476" side_tool="true" weight="0.5935961" />
@@ -368,7 +827,7 @@
       <window_info anchor="bottom" id="App Inspection" order="13" />
       <window_info anchor="bottom" id="clangd" order="14" />
       <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.5004817" weight="0.3768473" />
+      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.5004817" weight="0.37660414" />
       <window_info anchor="right" id="Layout Validation" order="0" weight="0.46435183" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.32994792" />
       <window_info anchor="right" id="Android Emulator" order="2" side_tool="true" />
@@ -410,15 +869,17 @@
     </layout-to-restore>
     <recentWindows>
       <value>Project</value>
-      <value>Terminal</value>
       <value>Debug</value>
-      <value>Version Control</value>
-      <value>Commit</value>
       <value>Logcat</value>
-      <value>Find</value>
+      <value>Version Control</value>
       <value>Gradle</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>TODO</value>
       <value>Build</value>
       <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Commit</value>
       <value>Android Profiler</value>
       <value>Structure</value>
       <value>Layout Inspector</value>
@@ -434,117 +895,125 @@
     </state>
     <state x="2196" y="445" width="530" height="363" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647229651842" />
     <state x="276" y="433" width="530" height="363" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430517639" />
-    <state x="619" y="363" width="378" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1647483597373">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2539" y="376" width="378" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1648785182629">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2268" y="669" width="378" height="583" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647054683994" />
     <state x="2539" y="376" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1647093132353" />
     <state x="619" y="363" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647483597373" />
-    <state x="2539" y="376" width="378" height="583" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647258848011" />
+    <state x="2539" y="376" width="378" height="583" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648785182629" />
     <state x="641" y="392" width="637" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1647488958305">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="641" y="392" width="637" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647488958305" />
-    <state x="530" y="387" key="#xdebugger.evaluate" timestamp="1647430910995">
-      <screen x="0" y="0" width="1920" height="1051" />
+    <state x="2268" y="191" width="887" height="650" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1648799214456">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2268" y="191" width="887" height="650" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648799214456" />
+    <state x="2450" y="398" key="#xdebugger.evaluate" timestamp="1648868619804">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2218" y="708" key="#xdebugger.evaluate/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647067089272" />
     <state x="530" y="384" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647421779845" />
-    <state x="2450" y="398" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647266450308" />
+    <state x="2450" y="398" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868619804" />
     <state x="530" y="387" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430910995" />
-    <state x="569" y="385" width="434" height="503" key="AndroidProcessChooserDialog" timestamp="1647865659525">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2489" y="399" width="434" height="503" key="AndroidProcessChooserDialog" timestamp="1648868871850">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2240" y="709" width="440" height="503" key="AndroidProcessChooserDialog/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068187877" />
     <state x="569" y="385" width="434" height="503" key="AndroidProcessChooserDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647865659525" />
-    <state x="2489" y="399" width="434" height="503" key="AndroidProcessChooserDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647266782609" />
+    <state x="2489" y="399" width="434" height="503" key="AndroidProcessChooserDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868871850" />
     <state x="569" y="388" width="434" height="503" key="AndroidProcessChooserDialog/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430839444" />
-    <state x="98" y="97" width="1724" height="817" key="DiffContextDialog" timestamp="1647501921384">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2018" y="100" width="1724" height="817" key="DiffContextDialog" timestamp="1648799058606">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="98" y="97" width="1724" height="817" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647501921384" />
-    <state x="2018" y="100" width="1724" height="845" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647244388752" />
+    <state x="2018" y="100" width="1724" height="845" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648799058606" />
     <state x="574" y="391" width="428" height="484" key="FileChooserDialogImpl" timestamp="1648020039300">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="2243" y="719" width="428" height="484" key="FileChooserDialogImpl/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647050964517" />
     <state x="574" y="391" width="428" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648020039300" />
-    <state width="1878" height="286" key="GridCell.Tab.0.bottom" timestamp="1647866272940">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.0.bottom" timestamp="1648868982898">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.0.bottom/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068188194" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272940" />
-    <state width="1868" height="332" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370954" />
+    <state width="1878" height="424" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982898" />
     <state width="1878" height="288" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927377" />
-    <state width="1878" height="286" key="GridCell.Tab.0.center" timestamp="1647866272939">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.0.center" timestamp="1648868982895">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.0.center/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068188193" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272939" />
-    <state width="1868" height="332" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370949" />
+    <state width="1878" height="424" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982895" />
     <state width="1878" height="288" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927376" />
-    <state width="1878" height="286" key="GridCell.Tab.0.left" timestamp="1647866272938">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.0.left" timestamp="1648868982892">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.0.left/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068188193" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272938" />
-    <state width="1868" height="332" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370946" />
+    <state width="1878" height="424" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982892" />
     <state width="1878" height="288" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927376" />
-    <state width="1878" height="286" key="GridCell.Tab.0.right" timestamp="1647866272940">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.0.right" timestamp="1648868982896">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.0.right/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068188194" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272940" />
-    <state width="1868" height="332" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370951" />
+    <state width="1878" height="424" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982896" />
     <state width="1878" height="288" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927376" />
-    <state width="1878" height="286" key="GridCell.Tab.1.bottom" timestamp="1647866272943">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.1.bottom" timestamp="1648868982905">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.1.bottom/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068190517" />
     <state width="1878" height="286" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272943" />
-    <state width="1868" height="332" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370964" />
+    <state width="1878" height="424" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982905" />
     <state width="1878" height="288" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927378" />
-    <state width="1878" height="286" key="GridCell.Tab.1.center" timestamp="1647866272942">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.1.center" timestamp="1648868982902">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.1.center/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068190511" />
     <state width="1878" height="286" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272942" />
-    <state width="1868" height="332" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370960" />
+    <state width="1878" height="424" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982902" />
     <state width="1878" height="288" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927377" />
-    <state width="1878" height="286" key="GridCell.Tab.1.left" timestamp="1647866272941">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.1.left" timestamp="1648868982900">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.1.left/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068190508" />
     <state width="1878" height="286" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272941" />
-    <state width="1868" height="332" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370957" />
+    <state width="1878" height="424" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982900" />
     <state width="1878" height="288" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927377" />
-    <state width="1878" height="286" key="GridCell.Tab.1.right" timestamp="1647866272943">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="1878" height="424" key="GridCell.Tab.1.right" timestamp="1648868982903">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="308" height="643" key="GridCell.Tab.1.right/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647068190514" />
     <state width="1878" height="286" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866272943" />
-    <state width="1868" height="332" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647267370963" />
+    <state width="1878" height="424" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868982903" />
     <state width="1878" height="288" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430927378" />
-    <state x="364" y="356" width="642" height="572" key="RollbackChangesDialog" timestamp="1647484351445">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2284" y="369" width="642" height="572" key="RollbackChangesDialog" timestamp="1648799061628">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2125" y="656" width="663" height="609" key="RollbackChangesDialog/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647055612269" />
     <state x="364" y="356" width="642" height="572" key="RollbackChangesDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647484351445" />
-    <state x="2284" y="369" width="656" height="609" key="RollbackChangesDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647258282997" />
-    <state x="41" y="253" key="SettingsEditor" timestamp="1647499183461">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2284" y="369" width="656" height="609" key="RollbackChangesDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648799061628" />
+    <state x="2321" y="0" width="795" height="1080" key="ScreenshotViewer.Dimensions" timestamp="1648813772202">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2321" y="0" width="795" height="1080" key="ScreenshotViewer.Dimensions/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648813772202" />
+    <state x="1961" y="262" key="SettingsEditor" timestamp="1648815158260">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1956" y="596" key="SettingsEditor/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647061825498" />
     <state x="41" y="253" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647499183461" />
-    <state x="1961" y="262" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647251857160" />
+    <state x="1961" y="262" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648815158260" />
     <state x="41" y="255" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430578094" />
     <state x="1984" y="335" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1647075161693" />
-    <state width="898" height="299" key="SwitcherDM" timestamp="1647866153621">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state width="898" height="309" key="SwitcherDM" timestamp="1648800051461">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="505" height="549" key="SwitcherDM/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647066818045" />
     <state width="898" height="299" key="SwitcherDM/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647866153621" />
-    <state width="898" height="309" key="SwitcherDM/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647310521881" />
+    <state width="898" height="309" key="SwitcherDM/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648800051461" />
     <state x="610" y="164" width="694" height="704" key="VCS.ChangeListViewerDialog" timestamp="1647483921623">
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
@@ -556,30 +1025,30 @@
     </state>
     <state x="2018" y="100" width="884" height="1722" key="VCS.FileHistoryDialog/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647061603202" />
     <state x="2094" y="56" width="1572" height="969" key="VCS.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647260679493" />
-    <state x="2393" y="244" width="937" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1647264247425">
+    <state x="2393" y="244" width="937" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1648868682558">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2393" y="244" width="937" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647264247425" />
-    <state x="542" y="73" width="1008" height="736" key="find.popup" timestamp="1648121277395">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2393" y="244" width="937" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868682558" />
+    <state x="2462" y="76" width="1008" height="762" key="find.popup" timestamp="1648868853900">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2225" y="135" width="567" height="762" key="find.popup/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647072815062" />
     <state x="2462" y="76" width="1008" height="762" key="find.popup/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1647093402176" />
     <state x="542" y="73" width="1008" height="736" key="find.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648121277395" />
-    <state x="2462" y="76" width="1008" height="762" key="find.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647312935707" />
+    <state x="2462" y="76" width="1008" height="762" key="find.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648868853900" />
     <state x="2462" y="76" width="1008" height="762" key="find.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1647073319035" />
-    <state x="2542" y="238" key="run.anything.popup" timestamp="1647266065116">
+    <state x="2542" y="238" key="run.anything.popup" timestamp="1648731695930">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2542" y="238" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647266065116" />
-    <state x="622" y="230" width="1195" height="683" key="search.everywhere.popup" timestamp="1648454551494">
-      <screen x="0" y="0" width="1920" height="1043" />
+    <state x="2542" y="238" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648731695930" />
+    <state x="2542" y="238" width="1195" height="710" key="search.everywhere.popup" timestamp="1648815843285">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="623" y="230" width="672" height="685" key="search.everywhere.popup/0.0.1920.1043@0.0.1920.1043" timestamp="1646985442253" />
     <state x="2270" y="423" width="672" height="1261" key="search.everywhere.popup/1920.0.1080.1920/0.594.1920.1080@1920.0.1080.1920" timestamp="1647072118957" />
     <state x="2542" y="238" width="1195" height="710" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1042@1920.0.1920.1080" timestamp="1647093138553" />
     <state x="622" y="230" width="1195" height="683" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648454551494" />
-    <state x="2542" y="238" width="1195" height="710" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1647258857283" />
+    <state x="2542" y="238" width="1195" height="710" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648815843285" />
     <state x="622" y="232" width="1195" height="689" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1051@0.0.1920.1051" timestamp="1647430293266" />
   </component>
   <component name="debuggerHistoryManager">
@@ -596,6 +1065,31 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mInstallApps.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NativeAppsProvider.getInstance().getMatchApps()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>searchBarCallbacks != null &amp;&amp; !TextUtils.isEmpty(query) &amp;&amp; query.length() &gt;= BranchConstant.BRANCH_QUERY_LENGTH</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>findViewById(R.id.no_layout_search_bar_id)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((SearchBar)findViewById(R.id.no_layout_search_bar_id)).getInput()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>mFirebaseRemoteConfig.getString(LAUNCHER_SWIPE_B_ONE_SCREEN)</expression-string>
         <language-id>JAVA</language-id>
@@ -616,73 +1110,59 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>BranchSearch.getInstance()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>mItemList.size() - mTagList.size() - suggestionApps.size() &gt; 0</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>BranchSearchManager.getInstance()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>mItemList.get(0).data</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>searchResult.getResults()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/layout_search_bar.xml">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/callBack/BranchCompositeSearchCallBack.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="96">
+            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchAlgorithm.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="48">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/callBack/SearchBarCallbacks.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="96">
+            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/jump_to_browser.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/drawable/branch_search_guide.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchContainer.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="1944">
-            <caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/SearchBar.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="288">
-            <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/SearchBarController.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="1872">
-            <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+          <editor-state relative-caret-position="552">
+            <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -692,32 +1172,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/widget/SearchView.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="6120">
-            <caret line="334" column="52" selection-start-line="334" selection-start-column="52" selection-end-line="334" selection-end-column="52" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-31/android.jar!/android/view/inputmethod/InputMethodManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/UiThreadHelper.java">
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/suggestion/NativeAppsView.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="1104">
-            <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <editor-state relative-caret-position="506">
+            <caret line="68" column="61" lean-forward="true" selection-start-line="68" selection-start-column="61" selection-end-line="68" selection-end-column="61" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -727,13 +1186,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/SearchBarDrawerLayout.java">
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/suggestion/SuggestionAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="1056">
-            <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        <state>
+          <editor-state relative-caret-position="290">
+            <caret line="608" column="48" selection-start-line="608" selection-start-column="48" selection-end-line="608" selection-end-column="48" />
           </editor-state>
-          <multi-preview-state selected="Custom views">
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/provider/NativeAppsProvider.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="304">
+            <caret line="133" column="43" lean-forward="true" selection-start-line="133" selection-start-column="43" selection-end-line="133" selection-end-column="43" />
+          </editor-state>
+          <multi-preview-state selected="">
             <representations>
               <list />
             </representations>
@@ -744,8 +1217,8 @@
     <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="96">
-            <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <editor-state relative-caret-position="-552">
+            <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -755,83 +1228,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/newhome/news/view/NFListView.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="281">
-            <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/StaggeredGridLayoutManager.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="255">
-            <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_search_result_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="17">
-            <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/newhome/news/view/NFShortVideoView.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/JumpToBrowserView.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
           <editor-state relative-caret-position="432">
-            <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
           </editor-state>
           <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiFeed/common/src/main/java/miui/newsfeed/common/recyclerview/LayoutManager.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="216">
-            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiFeed/common/src/main/java/miui/newsfeed/common/recyclerview/GridLayoutManager.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="744">
-            <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          </editor-state>
-          <multi-preview-state selected="">
             <representations>
               <list />
             </representations>
@@ -842,8 +1255,8 @@
     <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/WrapContentLinearLayoutManager.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="240">
-            <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <editor-state relative-caret-position="678">
+            <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -853,25 +1266,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskView.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="144">
-            <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiFeed/common/src/main/java/miui/newsfeed/common/recyclerview/LinearLayoutManager.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/sdk/BranchRequestManager.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="864">
-            <caret line="43" column="15" selection-start-line="34" selection-start-column="12" selection-end-line="43" selection-end-column="15" />
+          <editor-state relative-caret-position="489">
+            <caret line="173" column="30" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="30" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -881,46 +1280,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="16104">
-            <caret line="762" column="11" selection-start-line="762" selection-start-column="11" selection-end-line="762" selection-end-column="11" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiFeed/common/src/main/java/miui/newsfeed/common/recyclerview/StaggeredGridLayoutManager.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="792">
-            <caret line="38" column="15" selection-start-line="29" selection-start-column="12" selection-end-line="38" selection-end-column="15" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="272" lean-forward="true" selection-start-line="272" selection-end-line="272" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/AdapterItem.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/DefaultAppSearchAlgorithm.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
           <editor-state relative-caret-position="290">
-            <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/RecommendAppsGridAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-1128">
+            <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/ILocalSearchCallBack.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="168">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchMaskViewAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1536">
+            <caret line="91" selection-start-line="91" selection-end-line="91" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchMaskItem.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="168">
+            <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiuiBusiness/src/main/java/miui/browser/common_business/cloudconfig/FirebaseConfigManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="246">
+            <caret line="528" selection-start-line="528" selection-end-line="528" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/LauncherActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="168">
+            <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchBarCallbacks.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="96">
+            <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -933,8 +1395,8 @@
     <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchResultPage.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="120">
-            <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <editor-state relative-caret-position="343">
+            <caret line="68" selection-start-line="68" selection-end-line="68" />
           </editor-state>
           <multi-preview-state selected="Custom views">
             <representations>
@@ -944,134 +1406,277 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/LauncherActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="201">
-            <caret line="79" column="39" lean-forward="true" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiBusiness/src/main/java/miui/browser/common_business/report/ReportConstants.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="8520">
-            <caret line="355" column="48" selection-start-line="355" selection-start-column="48" selection-end-line="355" selection-end-column="48" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/privacy/PrivacyActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="1104">
-            <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/util/WebViewSettingConfig.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="5904">
-            <caret line="267" column="9" selection-start-line="267" selection-start-column="9" selection-end-line="267" selection-end-column="9" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiCommon/src/miui/browser/util/LanguageUtil.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="216">
-            <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/privacy/PrivacyAgreement.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="3408">
-            <caret line="167" column="7" selection-start-line="167" selection-start-column="7" selection-end-line="167" selection-end-column="7" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4872">
-          <caret line="203" column="43" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/res/layout/browser_tab_info_container_layout.xml">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_result_page.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/values-v29/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_result_mask.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchMaskView.java">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="528">
+            <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-3/dea7fca8cd5125205eff3e590db8fbfc/transformed/jetified-appcompat-1.2.0-beta08/res/values-night-v8/values-night-v8.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_search_result_page.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-3/dea7fca8cd5125205eff3e590db8fbfc/transformed/jetified-appcompat-1.2.0-beta08/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41832">
-          <caret line="1743" column="17" selection-start-line="1743" selection-start-column="17" selection-end-line="1743" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiBusiness/src/main/java/miui/browser/common_business/cloudconfig/FirebaseConfigManager.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.6/25ece06338d39da1fdc9d8488aa57b5014866918/fragment-1.3.6-sources.jar!/androidx/fragment/app/Fragment.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="4584">
-            <caret line="213" column="40" selection-start-line="213" selection-start-column="40" selection-end-line="213" selection-end-column="40" />
+          <editor-state relative-caret-position="153">
+            <caret line="1636" column="32" selection-start-line="1636" selection-start-column="32" selection-end-line="1636" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/permission/intercept/record/WebInterceptRecordFragment.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="153">
+            <caret line="155" column="45" selection-start-line="155" selection-start-column="45" selection-end-line="155" selection-end-column="45" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="120">
+            <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/activity_branch.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/zeroPage/SearchResultMaskView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-192">
+            <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/no_branch_mask.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/layout_search_bar.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/activity_no_branch.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/SearchBar.java">
+      <provider editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="196">
+            <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchContainer.java">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="257">
+            <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/manager/SearchBarController.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="266">
+            <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="134">
+            <caret line="44" selection-start-line="44" selection-end-line="44" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchBar/callBack/SearchAlgorithm.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="144">
+            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchBarController.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="194">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchDefaultAppSearchAlgorithm.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="373">
+            <caret line="80" selection-start-line="80" selection-end-line="80" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/provider/LauncherConfigProvider.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1992">
+            <caret line="137" column="49" selection-start-line="137" selection-start-column="49" selection-end-line="137" selection-end-column="49" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/NativeAppsProvider.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="336">
+            <caret line="149" selection-start-line="149" selection-end-line="149" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchRequestManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="205">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchResultPageView.java">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="177">
+            <caret line="81" selection-start-line="81" selection-end-line="81" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/AdapterItem.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="680">
+            <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -1084,8 +1689,8 @@
     <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/searchpage/BranchSearchPageAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="408">
-            <caret line="60" column="110" selection-start-line="60" selection-start-column="110" selection-end-line="60" selection-end-column="110" />
+          <editor-state relative-caret-position="290">
+            <caret line="350" column="76" selection-start-line="350" selection-start-column="76" selection-end-line="350" selection-end-column="76" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -1094,43 +1699,15 @@
           </multi-preview-state>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_result_page.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
-          <folding>
-            <element signature="e#162#1855#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_zero_state_item.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_lds_search_item.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_group_title.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/branch_search_guide.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_search_recommend.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/res/layout/all_apps_uni_auto_suggest.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser/src/com/android/browser/PhoneUi.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchConstant.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="70392">
-            <caret line="3154" column="58" selection-start-line="3154" selection-start-column="58" selection-end-line="3154" selection-end-column="59" />
+          <editor-state relative-caret-position="290">
+            <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -1140,53 +1717,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiCommon/src/miui/browser/reflect/JavaReflect.java">
+    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/nobranch/NoBranchSearchPageAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="168">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiuiCommon/src/miui/browser/os/MiuiSdkUtil.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="400">
-            <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/branch/BranchActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="552">
-            <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserBranch/src/main/java/miui/utils/SystemUtil.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="528">
-            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <editor-state relative-caret-position="288">
+            <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="35" selection-end-column="27" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>

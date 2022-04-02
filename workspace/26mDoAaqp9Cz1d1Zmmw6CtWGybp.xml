@@ -26,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PocoLauncher/src/main/java/com/miui/home/launcher/LauncherStateTransitionAnimation.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
@@ -40,6 +40,11 @@
               </multi-preview-state>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mock:///">
+          <provider selected="true" editor-type-id="DiffEditor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -253,6 +258,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
       <window_info id="Structure" order="1" side_tool="true" />

@@ -2,56 +2,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/SettingsActivity.kt">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state />
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/By.kt">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="24">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/Delegate.kt">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="432">
-                <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/java/dialogtest/GeneralDialog.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="1032">
+              <editor-state relative-caret-position="578">
                 <caret line="189" column="66" selection-start-line="189" selection-start-column="66" selection-end-line="189" selection-end-column="66" />
               </editor-state>
               <multi-preview-state selected="">
@@ -64,15 +18,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/common_dialog.xml">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/MyFragmentActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="360">
+                <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my_fragment.xml">
           <provider selected="true" editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.gradle/caches/transforms-3/20c38c2442424af3dc92beeef63cc82d/transformed/cardview-1.0.0/res/values/values.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/PlaceholderFragment.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="120">
+                <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_place_holder.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.4.1/f9e48179ea0c6ac0080a277b9383f74523f56aa2/appcompat-1.4.1-sources.jar!/androidx/appcompat/app/AppCompatActivity.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="290">
+                <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
             </state>
           </provider>
         </entry>
@@ -117,6 +124,11 @@
       <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
       <option value="$PROJECT_DIR$/app/src/main/res/layout/common_dialog.xml" />
       <option value="$PROJECT_DIR$/app/src/main/java/com/example/demotest/java/dialogtest/GeneralDialog.java" />
+      <option value="$PROJECT_DIR$/app/build.gradle" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/PlaceholderFragment.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_place_holder.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_my_fragment.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/MyFragmentActivity.kt" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -179,8 +191,17 @@
               <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="demotest" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dialogtest" type="462c0819:PsiDirectoryNode" />
+              <item name="kt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoTest" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demotest" type="462c0819:PsiDirectoryNode" />
+              <item name="kt" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoTest" type="1abcf292:AndroidViewProjectNode" />
@@ -205,6 +226,10 @@
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
+            <path>
+              <item name="DemoTest" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -214,8 +239,9 @@
     </panes>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24817708" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -262,9 +288,10 @@
       <screen x="0" y="0" width="1920" height="1043" />
     </state>
     <state x="738" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1647949636782" />
-    <state x="2463" y="280" width="828" height="484" key="AndroidCreateResourceFileDialog" timestamp="1648519323054">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="543" y="270" width="828" height="484" key="AndroidCreateResourceFileDialog" timestamp="1648709214232">
+      <screen x="0" y="0" width="1920" height="1043" />
     </state>
+    <state x="543" y="270" width="828" height="484" key="AndroidCreateResourceFileDialog/1920.0.1920.1080/0.0.1920.1043@0.0.1920.1043" timestamp="1648709214232" />
     <state x="2463" y="280" width="828" height="484" key="AndroidCreateResourceFileDialog/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648519323054" />
     <state x="2376" y="157" key="SettingsEditor" timestamp="1648518913200">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -272,6 +299,7 @@
     <state x="2376" y="157" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1043@1920.0.1920.1080" timestamp="1648518913200" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/java/dialogtest/TestDialog.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/SettingsActivity.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
@@ -298,20 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/70f4e47092d0158a39aafc634ad60b6320c3d6ce/kotlin-stdlib-1.5.31-sources.jar!/kotlin/util/LazyJVM.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="1752">
-            <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/Delegate.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
@@ -326,30 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/java/dialogtest/TestDialog.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="296">
-            <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/common_dialog.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
@@ -360,11 +350,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/70f4e47092d0158a39aafc634ad60b6320c3d6ce/kotlin-stdlib-1.5.31-sources.jar!/kotlin/util/LazyJVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1752">
+            <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/java/dialogtest/GeneralDialog.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="1032">
+          <editor-state relative-caret-position="578">
             <caret line="189" column="66" selection-start-line="189" selection-start-column="66" selection-end-line="189" selection-end-column="66" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.4.1/f9e48179ea0c6ac0080a277b9383f74523f56aa2/appcompat-1.4.1-sources.jar!/androidx/appcompat/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="290">
+            <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_place_holder.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/PlaceholderFragment.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="120">
+            <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my_fragment.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/demotest/kt/fragment/MyFragmentActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="360">
+            <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
