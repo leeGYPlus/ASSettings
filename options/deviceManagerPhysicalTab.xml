@@ -5,11 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="8028b93a0420" />
+            <value value="ef754dd1" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-25T03:44:28.659628Z" />
-        <name value="Xiaomi M2010J19SI" />
+        <lastOnlineTime value="2022-04-06T07:02:24.089288Z" />
+        <name value="Xiaomi Mi 9T" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>

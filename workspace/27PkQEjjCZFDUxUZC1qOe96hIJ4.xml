@@ -1,0 +1,567 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/recents/src/com/miui/home/recents/OverviewState.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="624">
+                <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/recents/src/com/miui/home/recents/LauncherActivityControllerHelper.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="1152">
+                <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/Launcher.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="41568">
+                <caret line="2140" column="63" selection-start-line="2140" selection-start-column="63" selection-end-line="2140" selection-end-column="63" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/search/GlobalSearchEdgeEffect.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="2112">
+                <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="144">
+                <caret line="75" column="85" lean-forward="true" selection-start-line="75" selection-start-column="85" selection-end-line="75" selection-end-column="85" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/DeviceConfig.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="35568">
+                <caret line="1678" column="26" selection-start-line="1678" selection-start-column="26" selection-end-line="1678" selection-end-column="26" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>closeAll</find>
+      <find>CloseAllOverLauncherWindowMessage</find>
+      <find>CloseAllOverLau</find>
+      <find>BRANCH_</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/app/recents/src/com/miui/home/recents</dir>
+      <dir>$PROJECT_DIR$/app/src/com/miui/home/launcher/search</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/com/miui/home/launcher/search/GlobalSearchEdgeEffect.java" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="recents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="miui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MiuiHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiuiHome" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Commercial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+              <item name="globallauncher" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="MiuiHome-history1" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.6093596" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32955664" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.85369456" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4004926" />
+      <window_info anchor="bottom" id="Logcat V2" order="11" />
+      <window_info anchor="bottom" id="Layout Inspector" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="App Inspection" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32955664" />
+      <window_info anchor="bottom" id="clangd" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+      <window_info anchor="right" id="Android Emulator" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device Manager" order="2" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.32994792" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Dependency Viewer</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="768" y="263" width="374" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1649311810833">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="768" y="263" width="374" height="588" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649311810833" />
+    <state x="626" y="398" width="658" height="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1649245275746">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="626" y="398" width="658" height="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649245275746" />
+    <state x="712" y="303" width="496" height="508" key="AndroidProcessChooserDialog" timestamp="1649298058123">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="712" y="303" width="496" height="508" key="AndroidProcessChooserDialog/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298058123" />
+    <state x="743" y="314" width="424" height="487" key="FileChooserDialogImpl" timestamp="1649244730370">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="487" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649244730370" />
+    <state x="482" y="385" width="945" height="348" key="GradleDaemons" timestamp="1649312628351">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="482" y="385" width="945" height="348" key="GradleDaemons/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649312628351" />
+    <state width="1876" height="378" key="GridCell.Tab.0.bottom" timestamp="1649298187422">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187422" />
+    <state width="1876" height="378" key="GridCell.Tab.0.center" timestamp="1649298187421">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187421" />
+    <state width="1876" height="378" key="GridCell.Tab.0.left" timestamp="1649298187420">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187420" />
+    <state width="1876" height="378" key="GridCell.Tab.0.right" timestamp="1649298187422">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187422" />
+    <state width="1876" height="378" key="GridCell.Tab.1.bottom" timestamp="1649298187424">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.1.bottom/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187424" />
+    <state width="1876" height="378" key="GridCell.Tab.1.center" timestamp="1649298187423">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.1.center/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187423" />
+    <state width="1876" height="378" key="GridCell.Tab.1.left" timestamp="1649298187422">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.1.left/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187422" />
+    <state width="1876" height="378" key="GridCell.Tab.1.right" timestamp="1649298187423">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1876" height="378" key="GridCell.Tab.1.right/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649298187423" />
+    <state x="728" y="240" width="454" height="635" key="RollbackChangesDialog" timestamp="1649311782237">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="728" y="240" width="454" height="635" key="RollbackChangesDialog/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649311782237" />
+    <state x="449" y="191" width="1022" height="733" key="SettingsEditor" timestamp="1649312630982">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="449" y="191" width="1022" height="733" key="SettingsEditor/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649312630982" />
+    <state x="689" y="288" width="540" height="524" key="StructurePopup" timestamp="1649311812931">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="689" y="288" width="540" height="524" key="StructurePopup/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649311812931" />
+    <state x="713" y="167" width="702" height="520" key="find.popup" timestamp="1649311855564">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="713" y="167" width="702" height="520" key="find.popup/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649311855564" />
+    <state x="623" y="263" width="672" height="686" key="search.everywhere.popup" timestamp="1649311887764">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="263" width="672" height="686" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1080@0.32.1920.1048" timestamp="1649311887764" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/recents/src/com/miui/home/recents/OverviewState.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="624">
+            <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/recents/src/com/miui/home/recents/LauncherActivityControllerHelper.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1152">
+            <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/Launcher.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="41568">
+            <caret line="2140" column="63" selection-start-line="2140" selection-start-column="63" selection-end-line="2140" selection-end-column="63" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/search/GlobalSearchEdgeEffect.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2112">
+            <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/com/miui/home/launcher/DeviceConfig.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="35568">
+            <caret line="1678" column="26" selection-start-line="1678" selection-start-column="26" selection-end-line="1678" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commercial/src/main/java/com/mi/globallauncher/branch/BranchSearchGuide.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="144">
+            <caret line="75" column="85" lean-forward="true" selection-start-line="75" selection-start-column="85" selection-end-line="75" selection-end-column="85" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

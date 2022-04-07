@@ -2,116 +2,56 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/GitRepos/myapplication">
-          <value>
-            <RecentProjectMetaInfo frameTitle="My Application – MainActivity.kt [My_Application.app]" projectWorkspaceId="26E4UUbnu8pXbLjqgEYq7O2VgqC">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747017239" />
-              <frame x="260" y="21" width="1400" height="1000" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1646975428126" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/GitRepos/LargeImageMonitor">
-          <value>
-            <RecentProjectMetaInfo frameTitle="ImageMonitor – LargeImageManager.java [ImageMonitor.largeimage]" projectWorkspaceId="26VHjVHsGsk5fo7qR5YR5TZT8sr">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643746991967" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1647501969069" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/MiRepos/MiuiHome_bk">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome_bk – ~/Android/Sdk/sources/android-30/android/graphics/Canvas.java" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747020440" />
-              <frame x="1846" y="98" width="1908" height="1043" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648620385761" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/MiRepos/Branch">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Branch – CommercialInit.java [Branch.Commercial]" projectWorkspaceId="26pILpVKTk21P8lQJe6KOTdeg5o">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747014242" />
-              <frame x="1918" y="0" width="1924" height="1045" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648623099771" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/MiRepos/MiuiHomeGlobal">
-          <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHomeGlobal – BranchSearchManager.java" projectWorkspaceId="26mDoAaqp9Cz1d1Zmmw6CtWGybp">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747014242" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648708802460" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/GitRepos/DemoTest">
-          <value>
-            <RecentProjectMetaInfo frameTitle="DemoTest – MyFragmentActivity.kt [DemoTest.app]" projectWorkspaceId="26jg7Y7jWC0d1JYtR7PwkDF7OR6">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747030234" />
-              <frame x="149" y="145" width="1908" height="1043" extendedState="6" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648720885521" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/MiRepos/layout">
           <value>
-            <RecentProjectMetaInfo frameTitle="layout – ConfigUtils.java [layout.app]" projectWorkspaceId="26ip5givIZTOLEcPF9GfOPzIxx2">
+            <RecentProjectMetaInfo frameTitle="layout – layer9_islam_i18n_poco_default_workspace5x6.xml [layout.app]" projectWorkspaceId="27P7t3wCLfyqx6T7z0EkVOm1kPP">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747030234" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
+              <option name="build" value="AI-211.7628.21.2111.8193401" />
+              <option name="buildTimestamp" value="1645081976709" />
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648720413590" />
+              <option name="projectOpenTimestamp" value="1649232882056" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/MiRepos/MiuiHome">
+        <entry key="$USER_HOME$/MiRepos/SuperMiPicks">
           <value>
-            <RecentProjectMetaInfo frameTitle="MiuiHome – GlobalSearchEdgeEffect.java [MiuiHome.app]" projectWorkspaceId="26EYWVEvE44REWOZjhZDM2yXJVI">
+            <RecentProjectMetaInfo frameTitle="SuperMiPicks – BaseActivity.java [SuperMiPicks.app]" projectWorkspaceId="27QG7fvn75LvWgH5a8sJML5l7Ti">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643746985519" />
-              <frame x="-2" y="0" width="1924" height="1045" extendedState="6" />
+              <option name="build" value="AI-211.7628.21.2111.8193401" />
+              <option name="buildTimestamp" value="1645081976709" />
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648783467317" />
+              <option name="projectOpenTimestamp" value="1649244730980" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/MiRepos/MiuiBrowserGlobal">
           <value>
-            <RecentProjectMetaInfo frameTitle="MiuiBrowserGlobal – NoBranchMaskView.java [MiuiBrowserGlobal.BrowserBranch]" opened="true" projectWorkspaceId="26ELnVY2CFhjawnFPUBJQeB4ocy">
+            <RecentProjectMetaInfo frameTitle="MiuiBrowserGlobal – LauncherActivity.java [MiuiBrowserGlobal.Browser]" opened="true" projectWorkspaceId="27ExhXYXxB3pKbdCpQtlvopY2bf">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-211.7628.21.2111.8139111" />
-              <option name="buildTimestamp" value="1643747015126" />
-              <frame x="1920" y="20" width="1908" height="1043" extendedState="6" />
+              <option name="build" value="AI-211.7628.21.2111.8193401" />
+              <option name="buildTimestamp" value="1645081928823" />
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1648816972577" />
+              <option name="projectOpenTimestamp" value="1649312596741" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MiRepos/MiuiHome">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MiuiHome – BranchSearchGuide.java [MiuiHome]" opened="true" projectWorkspaceId="27PkQEjjCZFDUxUZC1qOe96hIJ4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8193401" />
+              <option name="buildTimestamp" value="1645081928823" />
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1649312596741" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/GitRepos" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Git" />
   </component>
 </application>
